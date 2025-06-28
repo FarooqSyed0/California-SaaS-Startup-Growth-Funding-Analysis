@@ -27,4 +27,5 @@
 ## Visual Evidence
 
 ![Tableau Dashboard Screenshot](screenshots/tableaudashboard.png)
+
 *Data source: `startup_funding_analysis_cleaned.csv`*
