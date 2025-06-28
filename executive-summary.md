@@ -35,13 +35,13 @@ Analyzed 800+ California SaaS companies to identify high-growth investment oppor
 
 ## Interactive Demo
 
-🔗 **[View Live Tableau Dashboard]([https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/CaliforniaSaaSStartupGrowthFundingAnalysis](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis_17511350716100/CaliforniaSaaSStartupGrowthFundingAnalysis)**
+🔗 **[View Live Tableau Dashboard](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis_17511350716100/CaliforniaSaaSStartupGrowthFundingAnalysis)**
 
 ---
 
 ## Stakeholder Value
 
-- **VC Firms:** Quantifiable investment screening reducing evaluation time
+- **VC Firms:** Quantifiable investment screening reduces evaluation time
 - **Startups:** Competitive benchmarking and market positioning insights  
 - **Market Researchers:** Comprehensive California SaaS ecosystem analysis
 
