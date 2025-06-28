@@ -30,7 +30,7 @@ This project analyzes the growth and funding landscape of SaaS startups in Calif
 
 ![Finalized Tableau Dashboard](docs/image.jpg)
 
-> **Tableau Public Dashboard:** [California SaaS Startup Growth & Funding Analysis](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/SaaSStartupGrowthDashboard?publish=yes)[2]
+> **Tableau Public Dashboard:** [California SaaS Startup Growth & Funding Analysis]([https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/SaaSStartupGrowthDashboard?publish=yes](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/CaliforniaSaaSStartupGrowthFundingAnalysis)[2]
 
 ## Key Insights & Recommendations
 - The majority of high-growth SaaS startups are clustered in the Bay Area, with San Francisco as the clear leader.
