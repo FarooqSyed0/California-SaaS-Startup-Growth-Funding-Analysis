@@ -4,7 +4,7 @@
 This project analyzes the growth and funding landscape of SaaS startups in California. Using real-world data, the goal is to identify high-growth companies, understand geographic trends, and uncover how funding correlates with employee expansion. The results are visualized in an interactive Tableau dashboard.
 
 ## Data
-- **Source:** Growjo, filtered for California SaaS startups with 1–500 employees.
+- **Source:** Growjo, filtered for California SaaS startups.
 - **Key Variables:** Company name, location, current employees, employee growth rate, year founded, total funding, company URL.
 - **Preparation:** Data was cleaned in Excel and Python, loaded into PostgreSQL, and exported as CSV for Tableau visualization.
 
