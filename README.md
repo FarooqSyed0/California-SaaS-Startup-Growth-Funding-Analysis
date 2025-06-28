@@ -19,7 +19,7 @@ This project analyzes the growth and funding landscape of SaaS startups in Calif
 - **Database:** Structured and queried data in PostgreSQL.
 - **Analysis:** Explored and validated data with SQL and Python.
 - **Visualization:** Built interactive dashboards and charts in Tableau Public (using CSV export).
-- **Documentation:** Key metrics and methodology are detailed in [KPIselection.md](src/KPIselection.md)[1].
+- **Documentation:** Key metrics and methodology are detailed in [KPIselection.md](src/KPIselection.md).
 
 ## Results & Visualizations
 - **Median Employee Growth Rate:** 21.88%
@@ -28,9 +28,10 @@ This project analyzes the growth and funding landscape of SaaS startups in Calif
 - **Top 10 Companies by Employee Growth:** Outlier, Rivian and Volkswagen Group Technologies, Pipeful, PassRight - U.S. Visa, Deccan AI, Agency, GoodOnes, Palona AI, LawPro.ai, Rooster Scheduling
 - **Geographic Trends:** San Francisco leads in high-growth companies, followed by Los Angeles, Palo Alto, and San Diego.
 
-![Finalized Tableau Dashboard](docs/image.jpg)
+<!-- If you have a dashboard screenshot, uncomment and update the line below -->
+<!-- ![Finalized Tableau Dashboard](screenshots/tableaudashboard.png) -->
 
-> **Tableau Public Dashboard:** [California SaaS Startup Growth & Funding Analysis]([https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/SaaSStartupGrowthDashboard?publish=yes](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/CaliforniaSaaSStartupGrowthFundingAnalysis)[2]
+> **Tableau Public Dashboard:** [California SaaS Startup Growth & Funding Analysis](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/CaliforniaSaaSStartupGrowthFundingAnalysis)[1]
 
 ## Key Insights & Recommendations
 - The majority of high-growth SaaS startups are clustered in the Bay Area, with San Francisco as the clear leader.
@@ -43,6 +44,7 @@ This project analyzes the growth and funding landscape of SaaS startups in Calif
 3. Review data cleaning and analysis scripts in the `src/` folder.
 4. Open the Tableau dashboard (link above) for interactive exploration.
 5. See [KPIselection.md](src/KPIselection.md) for full KPI methodology and benchmarks.
+6. (Optional) See `Labs mode docs/` for full project documentation and weekly breakdowns.
 
 ## Contact
 **Farooq Syed**  
