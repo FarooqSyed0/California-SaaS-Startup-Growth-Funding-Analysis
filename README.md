@@ -15,7 +15,7 @@ This project analyzes the growth and funding landscape of SaaS startups in Calif
 - Which companies are leading in employee growth?
 
 ## Technical Approach
-- **Data Engineering:** Cleaned and transformed data using Excel and Python (Pandas).
+- **Data Cleaning:** Cleaned and transformed data using Excel and Python (Pandas).
 - **Database:** Structured and queried data in PostgreSQL.
 - **Analysis:** Explored and validated data with SQL and Python.
 - **Visualization:** Built interactive dashboards and charts in Tableau Public (using CSV export).
