@@ -53,7 +53,6 @@
 
 ## Supporting Documentation
 - [KPIselection.md](src/KPIselection.md)
-- [findingssummary.md](Labs mode docs/findingssummary.md)
 - [README.md](README.md)
 - [Tableau Dashboard](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/CaliforniaSaaSStartupGrowthFundingAnalysis)
 - [Notion Project Page](https://www.notion.so/California-SaaS-Startup-Growth-Funding-Analysis-220cff0b4864800a8fd6fa3315c357ab)
