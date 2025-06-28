@@ -84,7 +84,6 @@ Exported cleaned data from PostgreSQL to CSV and connected Tableau Public to thi
 
 ### 3.18 Build visualizations (charts, KPIs, filters)
 Created KPI cards, bar chart for Top 10 Companies, histogram, scatter plot, and map for geographic distribution.
-![Tableau Charts](./screenshots/tableaucharts.png)
 
 ### 3.19 Combine visuals into an interactive dashboard
 Combined all key KPIs and visualizations into a single, interactive Tableau dashboard.
