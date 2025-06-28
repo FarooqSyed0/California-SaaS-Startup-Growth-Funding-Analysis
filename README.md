@@ -30,7 +30,7 @@ This project analyzes the growth and funding landscape of SaaS startups in Calif
 
 ![Finalized Tableau Dashboard](docs/image.jpg)
 
-> **Tableau Public Dashboard:** [California SaaS Startup Growth & Funding Analysis](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/SaaSStartupGrowthDashboard?publish=yes)[2]
+> **Tableau Public Dashboard:** [California SaaS Startup Growth & Funding Analysis]([https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/SaaSStartupGrowthDashboard?publish=yes](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/CaliforniaSaaSStartupGrowthFundingAnalysis)[2]
 
 ## Key Insights & Recommendations
 - The majority of high-growth SaaS startups are clustered in the Bay Area, with San Francisco as the clear leader.
@@ -40,7 +40,7 @@ This project analyzes the growth and funding landscape of SaaS startups in Calif
 ## How to Reproduce/Explore
 1. Clone this repository.
 2. See `src/startup_funding_analysis_cleaned.csv` for the cleaned dataset.
-3. Review data cleaning and analysis scripts in the `src/` and `notebooks/` folders.
+3. Review data cleaning and analysis scripts in the `src/` folder.
 4. Open the Tableau dashboard (link above) for interactive exploration.
 5. See [KPIselection.md](src/KPIselection.md) for full KPI methodology and benchmarks.
 
