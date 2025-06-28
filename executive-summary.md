@@ -47,4 +47,4 @@ Analyzed 800+ California SaaS companies to identify high-growth investment oppor
 
 ---
 
-📋 **[View Complete Technical Documentation](README.md)** | 💼 **[Portfolio Page](https://www.notion.so/California-SaaS-Startup-Growth-Funding-Analysis-220cff0b4864800a8fd6fa3315c357ab)**
+📋 **[View Complete Technical Documentation](technical-documentation.md)** | 💼 **[Portfolio Page](https://www.notion.so/California-SaaS-Startup-Growth-Funding-Analysis-220cff0b4864800a8fd6fa3315c357ab)**
