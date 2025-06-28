@@ -1,0 +1,843 @@
+company_name,city,state,current_employees,last_employees,employee_growth,founded,total_funding,linkedin_url,url,company_age
+Navan,Palo Alto,CA,2555.0,2323.0,10.01,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/navan,navan.com,55.0
+Dellfer,San Mateo,CA,13.0,17.0,-25.0,1970-01-01 00:00:00.000002016,10000000.0,http://www.linkedin.com/company/dellfer,dellfer.com,55.0
+Gtriip,San Francisco,CA,13.0,26.0,-52.0,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/gtriip,gtriip.com,55.0
+Akuity,Sunnyvale,CA,32.0,22.0,42.86,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/akuityio,akuity.io,55.0
+Arcjet,San Francisco,CA,10.0,7.0,42.86,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/arcjet,arcjet.com,55.0
+UpdateAI,Los Angeles,CA,20.0,24.0,-17.39,1970-01-01 00:00:00.000002020,5650000.0,http://www.linkedin.com/company/update-ai,update.ai,55.0
+Fuel Cycle,Los Angeles,CA,162.0,161.0,0.63,1970-01-01 00:00:00.000002005,0.0,http://www.linkedin.com/company/fuelcycle,fuelcycle.com,55.0
+Iterative,San Francisco,CA,41.0,52.0,-21.57,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/iterative-ai,iterative.ai,55.0
+Arkestro,San Francisco,CA,104.0,78.0,33.78,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/get-arkestro,arkestro.com,55.0
+LawPro.ai,Los Angeles,CA,11.0,2.0,450.0,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/lawpro-ai,lawpro.ai,55.0
+Revyl (YC F24),San Francisco,CA,6.0,,21.88,1970-01-01 00:00:00.000002024,0.0,http://www.linkedin.com/company/revylai,revyl.ai,55.0
+Uniform,San Francisco,CA,131.0,126.0,3.23,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/uniformdev,uniform.dev,55.0
+Parangat Technologies,San Francisco,CA,95.0,112.0,-15.18,1970-01-01 00:00:00.000002010,0.0,http://www.linkedin.com/company/parangat-technologies,parangat.com,55.0
+Pitney Bowes,San Diego,CA,,,21.88,,0.0,http://www.linkedin.com/company/pitney-bowes-service-inc,pitneybowes.com/us,
+Quilter,Los Angeles,CA,30.0,28.0,7.41,1970-01-01 00:00:00.000002019,40400000.0,http://www.linkedin.com/company/quilterai,quilter.ai,55.0
+Inscope,San Francisco,CA,11.0,7.0,57.14,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/inscopehq,inscopehq.com,55.0
+OmniML,San Jose,CA,4.0,20.0,-78.95,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/omniml,omniml.ai,55.0
+Everlance,San Francisco,CA,61.0,62.0,-1.64,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/everlance,everlance.com,55.0
+Astra Finance,Menlo Park,CA,26.0,23.0,13.64,1970-01-01 00:00:00.000002016,15000000.0,http://www.linkedin.com/company/astrainc,astra.finance,55.0
+Salsa,San Francisco,CA,64.0,38.0,69.44,1970-01-01 00:00:00.000002021,30000000.0,http://www.linkedin.com/company/salsa-dev,salsa.dev,55.0
+MANUFACTURO,Brea,CA,62.0,37.0,69.44,,0.0,http://www.linkedin.com/company/manufacturo-com,manufacturo.com,
+Seel,San Francisco,CA,95.0,77.0,24.0,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/addseel,seel.com,55.0
+System 9,Los Angeles,CA,26.0,30.0,-13.79,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/system9,system9.io,55.0
+Heart To Heart,Los Angeles,CA,20.0,27.0,-26.92,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/heart-to-heart-tech-inc,h2haudiodating.com,55.0
+Humankind,Santa Monica,CA,23.0,25.0,-8.33,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/humankindtechnologies,hubs.ly/q015psy-0,55.0
+Sprinto,San Francisco,CA,376.0,260.0,44.71,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/sprinto-com,sprinto.com,55.0
+SecurityPal,San Francisco,CA,219.0,146.0,50.36,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/securitypalhq,securitypalhq.com,55.0
+React,Menlo Park,CA,181.0,143.0,26.43,1970-01-01 00:00:00.000002013,0.0,http://www.linkedin.com/company/reactofficial,reactjs.org,55.0
+Adastec Corp.,San Francisco,CA,84.0,74.0,12.33,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/adastec,adastec.com,55.0
+Firework,San Mateo,CA,439.0,441.0,-0.48,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/fireworkhq,firework.com,55.0
+Cargo (YC S23),San Francisco,CA,59.0,42.0,41.46,,0.0,http://www.linkedin.com/company/cargo-hq,getcargo.io,
+Summit Wealth Systems,San Francisco,CA,30.0,22.0,38.1,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/summit-wealth-systems,summitwealth.io,55.0
+Certinia,San Jose,CA,881.0,834.0,5.62,1970-01-01 00:00:00.000002009,508000000.0,http://www.linkedin.com/company/certinia,certinia.com,55.0
+Brightback,San Francisco,CA,6.0,6.0,0.0,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/brightback,brightback.com,55.0
+Track3D,Milpitas,CA,82.0,74.0,9.59,1970-01-01 00:00:00.000002022,6380000.0,http://www.linkedin.com/company/track3dai,track3d.ai,55.0
+UpKeep,Los Angeles,CA,146.0,137.0,6.72,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/on-upkeep,upkeep.com,55.0
+UpUdate,San Francisco,CA,2.0,2.0,0.0,1970-01-01 00:00:00.000002017,700000.0,http://www.linkedin.com/company/upudate-inc,upudate.com,55.0
+Ensemble AI,San Francisco,CA,10.0,6.0,66.67,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/ensembleai,ensemblecore.ai,55.0
+Oda Studio,Los Angeles,CA,27.0,36.0,-23.53,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/odastudioapp,studio.odaportal.com,55.0
+Securiti,San Jose,CA,1018.0,808.0,26.01,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/securitiai,securiti.aiexternal,55.0
+GLASS,San Francisco,CA,64.0,18.0,250.0,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/glass-ecosystems,commerce.glass,55.0
+Sparrow,San Francisco,CA,192.0,119.0,60.68,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/trysparrowhq,trysparrow.com,55.0
+Pangea,Palo Alto,CA,61.0,56.0,9.43,1970-01-01 00:00:00.000002021,51000000.0,http://www.linkedin.com/company/pangea-cyber,pangea.cloud,55.0
+SuperRare Labs,San Diego,CA,68.0,84.0,-18.29,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/superrarelabs,superrare.com,55.0
+Safary,San Francisco,CA,44.0,43.0,2.38,1970-01-01 00:00:00.000002022,2400000.0,http://www.linkedin.com/company/safaryclub,safary.club,55.0
+Heliux,San Francisco,CA,8.0,6.0,33.33,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/heliux,heliux.com,55.0
+mymeet.ai,Palo Alto,CA,9.0,6.0,50.0,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/mymeet-ai,mymeet.ai,55.0
+TrueFoundry,San Francisco,CA,69.0,42.0,65.0,1970-01-01 00:00:00.000002021,19000000.0,http://www.linkedin.com/company/truefoundry,truefoundry.com,55.0
+acquire.com,San Francisco,CA,59.0,41.0,45.0,,0.0,http://www.linkedin.com/company/acquiredotcom,acquire.com,
+Compiify,San Francisco,CA,18.0,4.0,325.0,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/compiify,compiify.com,55.0
+nurdsoft,Los Angeles,CA,28.0,18.0,50.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/nurdsoft,nurdsoft.co,55.0
+Session AI,,CA,149.0,125.0,18.7,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/session-ai,sessionai.com,55.0
+FlashGrid,Sunnyvale,CA,17.0,18.0,-5.56,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/flashgrid,flashgrid.io,55.0
+The Modern Data Company,San Mateo,CA,135.0,123.0,9.09,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/themoderndatacompany,themoderndatacompany.com,55.0
+Cadence System Design and Analysis,San Jose,CA,73.0,59.0,24.14,1970-01-01 00:00:00.000001985,0.0,http://www.linkedin.com/company/cadencesda,cadence.com/content/cadence-www/global/en_us/home/tools/pcb-design-and-analysis.html,55.0
+GoContact,Los Angeles,CA,172.0,197.0,-12.44,1970-01-01 00:00:00.000002010,0.0,http://www.linkedin.com/company/gocontact,gocontact.com,55.0
+Whova,San Diego,CA,225.0,166.0,35.58,,0.0,http://www.linkedin.com/company/whova,whova.com/jobs,
+Loop Crypto,San Francisco,CA,7.0,3.0,133.33,,0.0,http://www.linkedin.com/company/loop-crypto,loopcrypto.xyz,
+Gigs,Los Angeles,CA,16.0,12.0,36.36,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/gogetgigs,getgigs.coexternal,55.0
+ReadMe,San Francisco,CA,72.0,67.0,7.58,,0.0,http://www.linkedin.com/company/readme,readme.com,
+Bevz,Los Angeles,CA,34.0,38.0,-11.11,1970-01-01 00:00:00.000002019,10200000.0,http://www.linkedin.com/company/bevz,bevz.com,55.0
+Signadot,San Mateo,CA,8.0,5.0,60.0,,0.0,http://www.linkedin.com/company/signadot,signadot.com,
+MSBAI (Techstars '20),Los Angeles,CA,19.0,19.0,0.0,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/msbai,msb.ai,55.0
+Alix,San Francisco,CA,28.0,28.0,0.0,1970-01-01 00:00:00.000002022,5500000.0,http://www.linkedin.com/company/meetalix,meetalix.com,55.0
+Contra,San Francisco,CA,481.0,333.0,44.79,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/contrahq,c87.to/3svtwmt,55.0
+BioticsAI,San Francisco,CA,8.0,5.0,60.0,,0.0,http://www.linkedin.com/company/bioticsai,biotics.ai,
+Resulticks,San Fransisco,CA,361.0,296.0,21.95,1970-01-01 00:00:00.000002012,0.0,http://www.linkedin.com/company/resulticks,resulticks.com,55.0
+Alchemy Cloud,San Francisco,CA,67.0,70.0,-4.35,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/alchemycloud,alchemy.cloud,55.0
+Kojo (formerly Agora),,CA,141.0,123.0,14.05,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/kojotechnologies,helloagora.com,55.0
+Werk,San Francisco,CA,128.0,94.0,35.87,,0.0,http://www.linkedin.com/company/usewerk,usewerk.com,
+Algorized,Berkeley,CA,10.0,4.0,150.0,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/algorized,algorized.com,55.0
+RKVST,Santa Clara,CA,35.0,38.0,-8.33,1970-01-01 00:00:00.000002018,7500000.0,http://www.linkedin.com/company/rkvst,rkvst.com,55.0
+Finxera,San Jose,CA,247.0,211.0,16.91,1970-01-01 00:00:00.000002008,0.0,http://www.linkedin.com/company/bancbox,cftpay.com,55.0
+Queenly,San Francisco,CA,20.0,27.0,-26.92,1970-01-01 00:00:00.000002019,9400000.0,http://www.linkedin.com/company/queenly,queenly.com,55.0
+Trunk,San Francisco,CA,75.0,61.0,22.41,1970-01-01 00:00:00.000002021,28500000.0,http://www.linkedin.com/company/trunkio,trunk.io,55.0
+Afresh,San Francisco,CA,196.0,206.0,-4.95,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/afreshtechnologies,afresh.com,55.0
+Mindy,San Francisco,CA,15.0,18.0,-16.67,1970-01-01 00:00:00.000002023,6000000.0,http://www.linkedin.com/company/mindy-ai,mindy.com,55.0
+Lightspark,Los Angeles,CA,80.0,50.0,58.33,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/lightspark-group,lightspark.com,55.0
+PICO XR,Mountain View,CA,176.0,141.0,25.36,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/picoxr,picoxr.com,55.0
+ON,San Francisco,CA,,,21.88,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/on-platform,onplatform.com,55.0
+Overclock Labs creators of Akash Network,San Francisco,CA,110.0,101.0,9.09,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/akash-network,akash.network,55.0
+HP Wolf Security,Palo Alto,CA,93.0,75.0,22.97,,0.0,http://www.linkedin.com/company/hpwolfsecurity,hp.com/wolf,
+SapientAI,Mountain View,CA,17.0,13.0,33.33,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/sapient-ai,sapient.ai,55.0
+Goldenset Collective,Los Angeles,CA,4.0,4.0,0.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/goldenset,goldenset.com,55.0
+Continu,San Francisco,CA,45.0,56.0,-18.87,1970-01-01 00:00:00.000002012,0.0,http://www.linkedin.com/company/continu-inc,continu.com,55.0
+Sommelier Finance,San Francisco,CA,21.0,28.0,-25.93,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/sommelier-finance,sommelier.finance,55.0
+Farm-ng,Watsonville,CA,34.0,29.0,17.86,1970-01-01 00:00:00.000002020,16200000.0,http://www.linkedin.com/company/farm-ng,store.farm-ng.com,55.0
+Crstl,San Francisco,CA,14.0,13.0,8.33,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/crstl,crstl.so,55.0
+Klarity Health,Redwood City,CA,83.0,77.0,8.22,,11000000.0,http://www.linkedin.com/company/klarity-health,helloklarity.com,
+Azilen Technologies,San Francisco,CA,392.0,350.0,12.0,1970-01-01 00:00:00.000002009,0.0,http://www.linkedin.com/company/azilen-technologies-pvt-ltd,azilen.com,55.0
+Cartwheel,Los Angeles,CA,29.0,29.0,0.0,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/trycartwheel,trycartwheel.com,55.0
+AlohaABA,Los Angeles,CA,18.0,10.0,80.0,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/alohaaba,alohaaba.com,55.0
+VRChat,San Francisco,CA,165.0,117.0,40.87,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/vrchat,vrchat.com,55.0
+Dayslice,San Francisco,CA,6.0,12.0,-45.45,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/dayslice,dayslice.com,55.0
+Pine Street Labs,San Francisco,CA,8.0,8.0,0.0,,0.0,http://www.linkedin.com/company/pine-street-labs,pinestreetlabs.com,
+Resend,San Francisco,CA,37.0,15.0,150.0,1970-01-01 00:00:00.000002023,21500000.0,http://www.linkedin.com/company/resend,resend.com,55.0
+Haystack,Los Angeles,CA,52.0,42.0,24.39,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/gohaystack,haystackteam.com/demo-request,55.0
+Markovate,San Francisco,CA,53.0,37.0,44.44,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/markovate,markovate.com,55.0
+Insightful,San Francisco,CA,92.0,77.0,20.0,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/insightfulio,insightful.io,55.0
+Amaze,San Francisco,CA,101.0,84.0,20.73,1970-01-01 00:00:00.000002011,0.0,http://www.linkedin.com/company/amazeanywhere,amaze.co,55.0
+Adobe Learning Manager,San Jose,CA,99.0,79.0,25.97,1970-01-01 00:00:00.000001982,0.0,http://www.linkedin.com/company/adobe-learning-manager,business.adobe.com/products/learning-manager/adobe-learning-manager.html,55.0
+Turn/River Capital,San Francisco,CA,74.0,47.0,56.52,,0.0,http://www.linkedin.com/company/turn-river-capital,turnriver.com,
+HappyFox,Irvine,CA,134.0,125.0,7.44,1970-01-01 00:00:00.000002011,0.0,http://www.linkedin.com/company/happyfox-inc-,happyfox.com,55.0
+MagicBell,San Francisco,CA,5.0,6.0,-16.67,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/magicbell,magicbell.com,55.0
+SINAI Technologies,San Francisco,CA,52.0,69.0,-25.37,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/sinai-technologies-inc,sinaitechnologies.com,55.0
+Regard,Los Angeles,CA,93.0,72.0,28.99,1970-01-01 00:00:00.000002016,84300000.0,http://www.linkedin.com/company/regard-technologies,withregard.com,55.0
+Rollup,Los Angeles,CA,10.0,18.0,-44.44,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/rollup-inc,rollup.ai,55.0
+Infinity AI,San Francisco,CA,3.0,6.0,-50.0,,0.0,http://www.linkedin.com/company/infinityai,infinity.ai,
+AiFlow (YC W23),San Francisco,CA,3.0,3.0,0.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/aiflow-inc,aiflow.solutions,55.0
+TadHealth,Irvine,CA,18.0,13.0,38.46,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/tadhealth,gettadhealth.com,55.0
+Samsung Research America (SRA),Mountain View,CA,776.0,633.0,22.54,1970-01-01 00:00:00.000001988,0.0,http://www.linkedin.com/company/sra-samsungreasearchamerica,sra.samsung.com,55.0
+AGORUS,San Diego,CA,54.0,45.0,18.6,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/agorus,agorus.com,55.0
+OurSky,Los Angeles,CA,7.0,10.0,-30.0,,0.0,http://www.linkedin.com/company/oursky-ai,oursky.ai,
+CamerEye,San Diego,CA,12.0,8.0,37.5,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/camereye,camereye.ai,55.0
+WEEDAR,Los Angeles,CA,19.0,9.0,100.0,,0.0,http://www.linkedin.com/company/weedar-app,weedar.io,
+iBASEt,Lake Forest,CA,301.0,310.0,-2.96,1970-01-01 00:00:00.000001986,0.0,http://www.linkedin.com/company/ibaset,ibaset.com,55.0
+Parcha,San Francisco,CA,15.0,14.0,7.14,,6750000.0,http://www.linkedin.com/company/parcha-ai,parcha.com,
+Alltius,Los Angeles,CA,36.0,38.0,-5.56,1970-01-01 00:00:00.000002022,2400000.0,http://www.linkedin.com/company/alltius,alltius.ai,55.0
+The Eighth Notch Inc. (T8N),Alamo,CA,7.0,7.0,0.0,,0.0,http://www.linkedin.com/company/t8notch,t8notch.com,
+Devtech,San Francisco,CA,289.0,292.0,-1.05,1970-01-01 00:00:00.000002012,0.0,http://www.linkedin.com/company/devtech,devtechgroup.com,55.0
+Frontier,San Francisco,CA,106.0,102.0,4.0,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/befrontier,befrontier.com,55.0
+Telmai,San Francisco,CA,14.0,14.0,0.0,1970-01-01 00:00:00.000002021,8590000.0,http://www.linkedin.com/company/telmai,telm.ai,55.0
+Umami,San Francisco,CA,13.0,12.0,9.09,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/umami-software,umami.is,55.0
+Cynthia.io,Agoura Hills,CA,6.0,6.0,0.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/cynthia-io,cynthia.io,55.0
+Tungsten Automation,,CA,797.0,541.0,47.36,,0.0,http://www.linkedin.com/company/tungstenautomation,tungstenautomation.com,
+Storylane,San Francisco,CA,49.0,40.0,23.08,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/storylane-io,storylane.io,55.0
+Notivize,Palo Alto,CA,2.0,5.0,-60.0,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/notivize,notivize.com,55.0
+CAKE.com,Palo Alto,CA,435.0,301.0,44.41,1970-01-01 00:00:00.000002009,0.0,http://www.linkedin.com/company/cake-dot-com,cake.com,55.0
+Clazar,San Francisco,CA,79.0,41.0,92.5,1970-01-01 00:00:00.000002023,14000000.0,http://www.linkedin.com/company/clazar,clazar.io,55.0
+BRM,San Francisco,CA,43.0,32.0,35.48,1970-01-01 00:00:00.000002022,21600000.0,http://www.linkedin.com/company/brm-labs,brmlabs.com,55.0
+Reworkd AI,San Francisco,CA,16.0,8.0,87.5,,4500000.0,http://www.linkedin.com/company/reworkd,reworkd.ai,
+Predibase,San Francisco,CA,35.0,33.0,6.45,,28400000.0,http://www.linkedin.com/company/predibase,predibase.com,
+Portal Labs,San Francisco,CA,18.0,5.0,240.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/portal-labs-inc,portalhq.io,55.0
+Cognixion,Santa Barbara,CA,38.0,49.0,-23.4,1970-01-01 00:00:00.000002014,14800000.0,http://www.linkedin.com/company/cognixion,one.cognixion.com,55.0
+Fyxt,Los Angeles,CA,21.0,27.0,-23.08,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/fyxt,fyxt.com,55.0
+Zitara Technologies,San Francisco,CA,40.0,49.0,-19.15,,0.0,http://www.linkedin.com/company/zitara-technologies,zitara.io,
+Locker,Los Angeles,CA,56.0,44.0,27.91,1970-01-01 00:00:00.000002020,3500000.0,http://www.linkedin.com/company/wantlocker,wantlocker.com,55.0
+Project Empower,San Diego,CA,66.0,44.0,51.16,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/project-empower-io,projectempower.io,55.0
+CelerData,San Francisco,CA,75.0,74.0,1.37,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/celerdata,celerdata.com,55.0
+DataGPT,San Francisco,CA,15.0,22.0,-31.82,1970-01-01 00:00:00.000002021,11900000.0,http://www.linkedin.com/company/datagpt-analytics,datagpt.com,55.0
+Invector,San Francisco,CA,12.0,12.0,0.0,,0.0,http://www.linkedin.com/company/getinvector,invector.co,
+MeetRecord,San Francisco,CA,26.0,6.0,316.67,1970-01-01 00:00:00.000002022,3100000.0,http://www.linkedin.com/company/meetrecord,meetrecord.com,55.0
+OneSchema,San Francisco,CA,17.0,14.0,23.08,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/oneschema,oneschema.co,55.0
+Seam AI,San Francisco,CA,19.0,17.0,11.76,,0.0,http://www.linkedin.com/company/seamai,getseam.ai,
+Tendril,Long Beach,CA,61.0,51.0,18.37,1970-01-01 00:00:00.000002020,800000.0,http://www.linkedin.com/company/tendrilllc,tendril.us,55.0
+Kommo,San Francisco,CA,335.0,281.0,19.27,1970-01-01 00:00:00.000002009,0.0,http://www.linkedin.com/company/kommo,kommo.com,55.0
+Nyckel,San Diego,CA,4.0,3.0,33.33,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/nyckelai,nyckel.com,55.0
+MarkovML,San Francisco,CA,37.0,24.0,50.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/markov-ml,app.markovml.com/signup,55.0
+Fluxon,San Francisco,CA,150.0,101.0,48.48,,0.0,http://www.linkedin.com/company/fluxon,fluxon.com,
+DEUNA,Palo Alto,CA,132.0,104.0,27.27,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/de-una,deuna.com,55.0
+Podqi,San Francisco,CA,5.0,3.0,66.67,,0.0,http://www.linkedin.com/company/podqi,podqi.com,
+Auradine,Santa Clara,CA,77.0,60.0,28.07,,343000000.0,http://www.linkedin.com/company/auradine,auradine.com,
+Coda,San Francisco,CA,294.0,312.0,-5.88,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/codainc,coda.io/evolution,55.0
+Samasource,San Francisco,CA,3873.0,3564.0,8.69,1970-01-01 00:00:00.000002008,84800000.0,http://www.linkedin.com/company/samasource,samasource.com,55.0
+NVISIONx,Santa Monica,CA,12.0,8.0,37.5,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/nvisnx,nvisionx.ai,55.0
+Nash,San Francisco,CA,82.0,67.0,21.88,,0.0,http://www.linkedin.com/company/usenash,usenash.com,
+OneCrew,San Francisco,CA,14.0,11.0,27.27,,5500000.0,http://www.linkedin.com/company/getonecrew,getonecrew.com,
+Quolum,Dublin,CA,38.0,35.0,8.82,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/quolum,quolum.com,55.0
+Orbee,Irvine,CA,77.0,71.0,7.35,1970-01-01 00:00:00.000002015,10300000.0,http://www.linkedin.com/company/orbee,orbee.com,55.0
+Chameleon,San Francisco,CA,83.0,83.0,0.0,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/chameleon-io,chameleon.io,55.0
+Subskribe,San Ramon,CA,38.0,42.0,-10.0,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/subskribe,subskribe.com,55.0
+Stackwatch creators of Kubecost,San Francisco,CA,82.0,66.0,23.81,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/stackwatch,kubecost.com,55.0
+Near,Pasadena,CA,436.0,381.0,14.17,1970-01-01 00:00:00.000002012,0.0,http://www.linkedin.com/company/-near,near.com,55.0
+ILUMA,San Francisco,CA,6.0,12.0,-45.45,,0.0,http://www.linkedin.com/company/ilumaxyz,iluma.xyz,
+Inclined,San Francisco,CA,28.0,25.0,12.5,1970-01-01 00:00:00.000002020,23400000.0,http://www.linkedin.com/company/inclined-tech,inclined.com,55.0
+Circle Security,San Francisco,CA,19.0,16.0,20.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/circlesecurity,circlesecurity.ai,55.0
+Cyclotron,San Francisco,CA,211.0,171.0,23.21,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/cyclotron-inc-,cyclotron.com,55.0
+Guardrails AI,Menlo Park,CA,10.0,11.0,-9.09,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/guardrailsai,guardrailsai.com,55.0
+Caldera,San Francisco,CA,28.0,10.0,170.0,1970-01-01 00:00:00.000002022,24000000.0,http://www.linkedin.com/company/calderaxyz,caldera.xyz,55.0
+Vesta,San Francisco,CA,78.0,61.0,27.59,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/usevesta,usevesta.com,55.0
+Rev.com,San Francisco,CA,4313.0,4360.0,-1.06,1970-01-01 00:00:00.000002010,30500000.0,http://www.linkedin.com/company/rev-com,rev.com,55.0
+Highway Benefits,Manhattan Beach,CA,8.0,5.0,60.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/highway-benefits,highwaybenefits.com,55.0
+Pando,San Francisco,CA,19.0,27.0,-30.77,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/pando-hq,pando.com,55.0
+Surge AI,San Francisco,CA,116.0,82.0,42.5,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/surge-ai,surgehq.ai,55.0
+Anrok,San Francisco,CA,90.0,54.0,68.63,,51900000.0,http://www.linkedin.com/company/anrok,anrok.com,
+Aesthetic,San Francisco,CA,13.0,18.0,-23.53,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/useaesthetic,aesthetic.com,55.0
+YepChat,Los Angeles,CA,29.0,15.0,86.67,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/yepchat,yepchat.com,55.0
+Typesafe (now Lightbend),San Francisco,CA,21.0,22.0,-4.76,1970-01-01 00:00:00.000002011,0.0,http://www.linkedin.com/company/typesafe,lightbend.com,55.0
+Calyptia,San Francisco,CA,25.0,22.0,14.29,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/calyptia,calyptia.com,55.0
+tap.,Santa Monica,CA,29.0,43.0,-31.71,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/tap-ec,tap.ec,55.0
+DroneDeploy,San Francisco,CA,296.0,228.0,29.46,,0.0,http://www.linkedin.com/company/dronedeploy,bit.ly/3wg4dhe,
+Insightly Analytics,San Francisco,CA,23.0,14.0,69.23,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/insightly-analytics,insightly.ai,55.0
+QLU.ai,San Francisco,CA,90.0,42.0,114.29,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/qlu-ai,qlu.ai,55.0
+Edge and Node,San Francisco,CA,63.0,60.0,5.08,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/edgeandnode,edgeandnode.com,55.0
+Kaedim,San Francisco,CA,66.0,40.0,66.67,1970-01-01 00:00:00.000002020,15200000.0,http://www.linkedin.com/company/kaedim,kaedim3d.com,55.0
+Paravision,San Francisco,CA,54.0,55.0,-1.85,1970-01-01 00:00:00.000002013,0.0,http://www.linkedin.com/company/paravision-ai,paravision.ai,55.0
+StyleScan,Los Angeles,CA,9.0,12.0,-18.18,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/stylescan,stylescan.com,55.0
+Moonhub,San Francisco,CA,29.0,19.0,47.37,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/moon-hub,moonhub.ai,55.0
+Erbis,Oakland,CA,73.0,85.0,-13.25,1970-01-01 00:00:00.000002012,0.0,http://www.linkedin.com/company/erbis-software-development,erbis.com,55.0
+hireEZ (previously Hiretual),Mountain View,CA,258.0,329.0,-21.41,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/hireez,hireez.com,55.0
+PhaseZero.ai,Los Altos,CA,63.0,47.0,34.78,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/phasezeroai,phasezero.ai,55.0
+Moonsense,San Francisco,CA,2.0,12.0,-81.82,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/moonsense,moonsense.io,55.0
+Nostra,San Francisco,CA,48.0,49.0,-2.08,1970-01-01 00:00:00.000002020,19700000.0,http://www.linkedin.com/company/nostraai,nostra.ai,55.0
+Dynamoid,Oakland,CA,3.0,3.0,0.0,1970-01-01 00:00:00.000002013,0.0,http://www.linkedin.com/company/dynamoid,dynamoid.com,55.0
+EvaBot,San Fracisco,CA,44.0,53.0,-17.31,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/evabot,evabot.com,55.0
+The New Computer Corporation,Los Angeles,CA,15.0,14.0,7.69,,0.0,http://www.linkedin.com/company/thenewcomputercorporation,ncc.la,
+BoomPop,San Francisco,CA,111.0,66.0,68.25,,0.0,http://www.linkedin.com/company/boompop,boompop.com,
+zarta,San Mateo,CA,2.0,4.0,-50.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/zarta,zarta.com,55.0
+Faros AI,San Francisco,CA,43.0,39.0,10.81,1970-01-01 00:00:00.000002019,39800000.0,http://www.linkedin.com/company/faros-ai,faros.ai,55.0
+Ganymede,Palo Alto,CA,62.0,56.0,11.32,1970-01-01 00:00:00.000002022,15200000.0,http://www.linkedin.com/company/ganymede-inc,ganymede.bio,55.0
+Resume,San Francisco,CA,99.0,70.0,40.58,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/resume-inc,resumeinc.com,55.0
+Flywheel Software,San Francisco,CA,79.0,67.0,16.67,,0.0,http://www.linkedin.com/company/flywheelsoftware,flywheelsoftware.com,
+Scale3,San Francisco,CA,16.0,13.0,25.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/scale3labs,scale3labs.com,55.0
+Galvanick,Los Angeles,CA,20.0,16.0,26.67,1970-01-01 00:00:00.000002021,16000000.0,http://www.linkedin.com/company/galvanick,galvanick.com,55.0
+Boulevard,Los Angeles,CA,408.0,317.0,28.62,1970-01-01 00:00:00.000002016,0.0,http://www.linkedin.com/company/boulevard,joinblvd.com,55.0
+Checkmate,San Francisco,CA,81.0,45.0,79.07,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/checkmate-savings,joincheckmate.com,55.0
+Pirros,Los Angeles,CA,16.0,12.0,36.36,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/pirros,pirros.io/lib,55.0
+Closeloop Technologies,Palo Alto,CA,75.0,65.0,15.63,1970-01-01 00:00:00.000002011,0.0,http://www.linkedin.com/company/closeloop-inc-,closeloop.com,55.0
+iCloud-Ready,San Francisco,CA,31.0,8.0,275.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/icloud-ready,icloud-ready.com,55.0
+Fractl,Cupertino,CA,7.0,7.0,0.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/fractl-io,fractl.io,55.0
+Valid,San Francisco,CA,13.0,9.0,44.44,,6860000.0,http://www.linkedin.com/company/validco,valid.co,
+GrowthLoop (Flywheel),San Francisco,CA,84.0,61.0,36.67,,0.0,http://www.linkedin.com/company/growthloop-co,growthloop.com,
+MSA SOFTWARE,Los Angeles,CA,17.0,13.0,30.77,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/msa-software,msasoftware.us,55.0
+Algolia,San Francisco,CA,839.0,843.0,-0.5,1970-01-01 00:00:00.000002012,334200000.0,http://www.linkedin.com/company/algolia,algolia.com,55.0
+RisingWave Labs,San Francisco,CA,50.0,44.0,14.29,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/risingwave-labs,risingwave.com,55.0
+BoostDraft,San Francisco,CA,32.0,14.0,121.43,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/boostdraft,boostdraft.com,55.0
+Fiverr Enterprise,Palo Alto,CA,115.0,84.0,37.8,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/fiverrenterprise,enterprise.fiverr.com,55.0
+Chisel,San Francisco,CA,35.0,24.0,41.67,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/chisellabs,chisellabs.com,55.0
+Facet,San Francisco,CA,26.0,17.0,56.25,,,http://www.linkedin.com/company/facetai,facet.ai,
+Onehouse,Menlo Park,CA,85.0,67.0,26.56,1970-01-01 00:00:00.000002021,68000000.0,http://www.linkedin.com/company/onehousehq,onehouse.ai,55.0
+Pequity,San Francisco,CA,40.0,45.0,-11.36,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/getpequity,pequity.com,55.0
+Voxela,San Francisco,CA,9.0,11.0,-10.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/voxela-inc,voxela.ai,55.0
+Ottr Finance,San Francisco,CA,5.0,7.0,-28.57,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/ottrfinance,ottr.finance,55.0
+conexio,Los Angeles,CA,91.0,96.0,-5.32,,0.0,http://www.linkedin.com/company/conexiocx,conexiogroup.com,
+Phyllo,San Francisco,CA,85.0,87.0,-2.35,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/getphyllo,getphyllo.com,55.0
+Shypyard,Los Angeles,CA,15.0,18.0,-17.65,,0.0,http://www.linkedin.com/company/shypyard,shypyard.com,
+CUBE,Gurugram,CA,69.0,47.0,47.83,,0.0,http://www.linkedin.com/company/cube-ms,cube.ms,
+Swit,San Francisco,CA,171.0,175.0,-2.33,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/getswit,swit.io,55.0
+Novity,San Carlos,CA,8.0,17.0,-52.94,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/novity-pdm,novity.us,55.0
+KIKI,Los Angeles,CA,31.0,19.0,57.89,,0.0,http://www.linkedin.com/company/kikiworld,launch.kiki.world,
+Mat3ra.com,San Francisco,CA,7.0,6.0,16.67,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/mat3ra,mat3ra.com,55.0
+DocSpera,Sunnyvale,CA,23.0,25.0,-8.33,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/docspera,docspera.com,55.0
+yurts ai,San Francisco,CA,65.0,36.0,82.35,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/yurtsai,yurts.ai/external,55.0
+AssurX,Morgan Hill,CA,48.0,46.0,4.35,1970-01-01 00:00:00.000001993,0.0,http://www.linkedin.com/company/assurx,assurx.com,55.0
+Lindy,San Francisco,CA,41.0,32.0,29.03,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/lindyai,lindy.ai,55.0
+RudderStack,San Francisco,CA,153.0,204.0,-25.0,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/rudderstack,rudderstack.com,55.0
+Just Words,San Francisco,CA,10.0,7.0,42.86,1970-01-01 00:00:00.000002024,0.0,http://www.linkedin.com/company/justwordsai,justwords.ai,55.0
+Space and Time,Newport Beach,CA,58.0,54.0,7.84,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/space-and-time-labs,spaceandtime.dev,55.0
+e6data,San Francisco,CA,87.0,53.0,63.46,1970-01-01 00:00:00.000002020,13600000.0,http://www.linkedin.com/company/e6data,e6data.com,55.0
+Promoted.ai,San Francisco,CA,13.0,12.0,9.09,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/promoted-ai,promoted.ai,55.0
+Gradual,San Francisco,CA,30.0,21.0,38.1,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/gradual-inc,gradual.com,55.0
+Yobi,Los Gatos,CA,41.0,41.0,0.0,1970-01-01 00:00:00.000002018,3970000.0,http://www.linkedin.com/company/yobiapp,yobi.app,55.0
+Nile,San Jose,CA,1181.0,720.0,63.99,1970-01-01 00:00:00.000002018,315000000.0,http://www.linkedin.com/company/nilesecure,nilesecure.com,55.0
+grofleX,San Francisco,CA,29.0,12.0,133.33,1970-01-01 00:00:00.000002024,0.0,http://www.linkedin.com/company/groflex1,groflex.io,55.0
+AKOOL,Palo Alto,CA,74.0,41.0,82.5,,0.0,http://www.linkedin.com/company/akool,akool.com,
+HackerEarth,San Francisco,CA,526.0,564.0,-6.69,1970-01-01 00:00:00.000002012,0.0,http://www.linkedin.com/company/hackerearth,hackerearth.com/recruit/resources/insights/drs2021,55.0
+IntelliBuddies,San Ramon,CA,17.0,17.0,0.0,1970-01-01 00:00:00.000002009,0.0,http://www.linkedin.com/company/intellibuddies,intellibuddies.com,55.0
+Spark Creative Play,Santa Monica,CA,8.0,13.0,-33.33,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/sparkcreativeplay,playspark.art,55.0
+Notebook Labs (YC S22),Stanford,CA,5.0,5.0,0.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/notebook-labs,notebooklabs.xyz,55.0
+Highnote,San Francisco,CA,131.0,104.0,25.49,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/highnoteplatform,highnote.com,55.0
+Gridmatic,Cupertino,CA,53.0,36.0,48.57,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/gridmatic,gridmatic.com/careers,55.0
+Zipy,San Francisco,CA,25.0,24.0,4.35,1970-01-01 00:00:00.000002020,2800000.0,http://www.linkedin.com/company/zipyai,zipy.ai,55.0
+Hirect App,San Francisco,CA,40.0,56.0,-29.09,,0.0,http://www.linkedin.com/company/hirect-us,hirectapp.com,
+GoodGist,San Mateo,CA,22.0,15.0,46.67,1970-01-01 00:00:00.000002023,1000000.0,http://www.linkedin.com/company/goodgist,goodgist.com,55.0
+CyberLink Corp.,San Jose,CA,668.0,,21.88,1970-01-01 00:00:00.000001996,0.0,,cyberlink.com,55.0
+Ciro,San Francisco,CA,25.0,9.0,166.67,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/ciro-io,ciro.io,55.0
+HireQuotient,San Francisco,CA,82.0,51.0,60.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/hirequotient,hirequotient.com,55.0
+ViralMoment,Menlo Park,CA,19.0,21.0,-9.52,1970-01-01 00:00:00.000002021,2570000.0,http://www.linkedin.com/company/viralmoment,viralmoment.com,55.0
+Keebo,Palo Alto,CA,43.0,36.0,20.59,1970-01-01 00:00:00.000002019,19000000.0,http://www.linkedin.com/company/keebo-inc,keebo.ai,55.0
+Minoa,San Francisco,CA,18.0,4.0,325.0,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/getminoa,minoa.io,55.0
+EvGateway,Irvine,CA,109.0,87.0,25.88,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/evgateway,evgateway.com/index.php,55.0
+Limmi,Carlsbad,CA,3.0,6.0,-50.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/limmi,limmi.io,55.0
+PropelAuth,Redwood City,CA,7.0,4.0,75.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/propelauth,bit.ly/welcomepropelauth,55.0
+Flip AI,San Francisco,CA,29.0,26.0,12.0,1970-01-01 00:00:00.000002021,6500000.0,http://www.linkedin.com/company/flipai,flip.ai,55.0
+Amberscript,Amsterdam,CA,241.0,220.0,9.26,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/amberscript,amberscript.com,55.0
+Sunday Labs,San Francisco,CA,54.0,39.0,39.47,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/sundaylabs,sundaylabs.io,55.0
+Loop,San Francisco,CA,92.0,79.0,17.33,,6800000.0,http://www.linkedin.com/company/loop-payments,loop.com,
+Impervious.ai,Newport Beach,CA,5.0,12.0,-54.55,,0.0,http://www.linkedin.com/company/impervious-ai,impervious.ai,
+HockeyStack,San Francisco,CA,65.0,23.0,178.26,1970-01-01 00:00:00.000002021,22700000.0,http://www.linkedin.com/company/hockeystack,hockeystack.com,55.0
+Informed.IQ,San Francisco,CA,54.0,66.0,-18.46,,0.0,http://www.linkedin.com/company/informediq,informediq.com,
+Splashtop,San Jose,CA,330.0,320.0,2.95,1970-01-01 00:00:00.000002006,114000000.0,http://www.linkedin.com/company/splashtop,splashtop.com,55.0
+Superframe,San Francisco,CA,8.0,7.0,14.29,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/superframeai,superframe.com,55.0
+REMIO,San Francisco,CA,19.0,19.0,0.0,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/remiovr,remiovr.com,55.0
+Loka,San Francisco,CA,369.0,281.0,31.64,,0.0,http://www.linkedin.com/company/loka,loka.com,
+Sapien AI,San Francisco,CA,3.0,2.0,50.0,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/sapien-ai-inc.,sapien.ai,55.0
+Inventive,San Francisco,CA,17.0,15.0,13.33,1970-01-01 00:00:00.000002022,6500000.0,http://www.linkedin.com/company/madeinventive,madeinventive.com,55.0
+Revolear,San Francisco,CA,11.0,12.0,-9.09,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/revolear,revolear.com,55.0
+Foody,San Francisco,CA,6.0,12.0,-45.45,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/joinfoody,joinfoody.com,55.0
+MightyMeld,Los Angeles,CA,7.0,6.0,16.67,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/mightymeld,mightymeld.com,55.0
+Revlitix,San Francisco,CA,29.0,18.0,55.56,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/revlitix,revlitix.com,55.0
+ResiQuant,San Francisco,CA,9.0,,21.88,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/resiquant,resiquant.ai,55.0
+JUICER,San Francisco,CA,38.0,38.0,0.0,1970-01-01 00:00:00.000002021,5300000.0,http://www.linkedin.com/company/juicerpricing,juicerpricing.com,55.0
+Vayu Robotics,Palo Alto,CA,22.0,20.0,10.53,1970-01-01 00:00:00.000002022,12700000.0,http://www.linkedin.com/company/vayu-robotics,vayurobotics.com,55.0
+Binary XZ,San Francisco,CA,28.0,26.0,8.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/binary-xz,binaryxz.com,55.0
+SHC,Laguna Beach,CA,150.0,125.0,19.51,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/smart-health-clubs,smarthealthclubs.com,55.0
+Magnifi,Mumbai,CA,170.0,130.0,31.5,1970-01-01 00:00:00.000002016,0.0,http://www.linkedin.com/company/magnifiofficial,magnifi.ai,55.0
+Klear.ai,Los Angeles,CA,35.0,24.0,41.67,,0.0,http://www.linkedin.com/company/klearai,klear.ai,
+Unify,San Francisco,CA,56.0,13.0,323.08,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/unifygtm,unifygtm.com,55.0
+Tempello AI,Encinitas,CA,9.0,8.0,12.5,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/tempello,tempello.ai,55.0
+Sedai,Pleasanton,CA,63.0,56.0,13.21,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/sedai,sedai.io,55.0
+OpusClip,Palo Alto,CA,75.0,47.0,60.87,1970-01-01 00:00:00.000002022,68000000.0,http://www.linkedin.com/company/opusclip,opus.pro,55.0
+Nominal,Los Angeles,CA,65.0,26.0,156.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/nominal-inc,nominal.io,55.0
+Kantata,Irvine,CA,543.0,620.0,-12.5,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/gokantata,kantata.com,55.0
+Simulation Theory,San Diego,CA,6.0,5.0,20.0,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/simtheory,simtheoryinc.com,55.0
+Kojo,San Francisco,CA,141.0,123.0,14.05,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/kojotechnologies,usekojo.com,55.0
+Rutter,San Francisco,CA,26.0,56.0,-52.83,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/rutter,rutterapi.com,55.0
+Kubecost,San Francisco,CA,77.0,52.0,47.06,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/kubecost,kubecost.com/install.html,55.0
+Sidero Labs,Santa Barbara,CA,19.0,13.0,46.15,1970-01-01 00:00:00.000002019,8700000.0,http://www.linkedin.com/company/sidero-labs,siderolabs.com,55.0
+New Lantern,San Francisco,CA,11.0,7.0,57.14,,0.0,http://www.linkedin.com/company/newlantern,newlantern.ai,
+Chaos Genius,Palo Alto,CA,17.0,12.0,45.45,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/chaosgenius,chaosgenius.io,55.0
+DigiMark Developers,Los Angeles,CA,69.0,45.0,54.55,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/digimarkdevelopers,digimarkdevelopers.com,55.0
+Trio,Covina,CA,60.0,31.0,96.67,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/trio-so,trio.so,55.0
+Sematic (YC S22),San Francisco,CA,13.0,13.0,0.0,,0.0,http://www.linkedin.com/company/sematic-ai,sematic.dev,
+ODIN AI,Los Angeles,CA,34.0,32.0,6.45,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/get-odin-ai,getodin.ai,55.0
+Wellpay,San Mateo,CA,6.0,7.0,-14.29,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/wellpay,wellpay.care,55.0
+MAP,San Francisco,CA,7.0,7.0,0.0,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/mapplatform,mapplatform.com,55.0
+AMPAworks,West Hollywood,CA,9.0,9.0,0.0,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/ampaworks,ampaworks.com,55.0
+Bito,Menlo Park,Ca,48.0,33.0,48.39,1970-01-01 00:00:00.000002021,4700000.0,http://www.linkedin.com/company/bitodev,bito.ai,55.0
+COR,San Francisco,CA,215.0,176.0,21.97,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/join-cor,projectcor.com,55.0
+Expo,Palo Alto,CA,101.0,67.0,50.0,1970-01-01 00:00:00.000002013,0.0,http://www.linkedin.com/company/expo-dev,expo.dev,55.0
+coxwave,San Jose,CA,26.0,19.0,31.58,,0.0,http://www.linkedin.com/company/coxwave,coxwave.com,
+Vapi,San Francisco,CA,65.0,15.0,326.67,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/vapi-ai,vapi.ai,55.0
+StepFunction,Palo Alto,CA,12.0,16.0,-26.67,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/stepfunctionai,stepfunction.ai,55.0
+MosaicML,San Francisco,CA,100.0,94.0,6.52,,0.0,http://www.linkedin.com/company/mosaicml,mosaicml.com,
+Shinami,San Francisco,CA,9.0,9.0,0.0,,0.0,http://www.linkedin.com/company/shinami,shinami.com,
+FarmSense,Riverside,CA,6.0,6.0,0.0,,0.0,http://www.linkedin.com/company/farmenseinc,farmsense.io,
+Barti,San Francisco,CA,38.0,32.0,19.35,,0.0,http://www.linkedin.com/company/barti,barti.com,
+Leadspace,San Francisco,CA,92.0,107.0,-14.29,1970-01-01 00:00:00.000002010,0.0,http://www.linkedin.com/company/leadspacecdp,leadspace.com,55.0
+Node.js,San Francisco,CA,511.0,401.0,27.48,1970-01-01 00:00:00.000002009,0.0,http://www.linkedin.com/company/node-js,nodejs.org/en,55.0
+Kognitos,San Jose,CA,83.0,58.0,43.64,,53800000.0,http://www.linkedin.com/company/kognitos,kognitos.com,
+IDPartner Systems,San Francisco,CA,12.0,8.0,37.5,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/idpartner-systems,idpartner.com,55.0
+LaunchNotes,California,CA,27.0,29.0,-7.14,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/launchnotes,launchnotes.com,55.0
+CallHub,Walnut,CA,101.0,87.0,16.47,1970-01-01 00:00:00.000002011,0.0,http://www.linkedin.com/company/callhub.io,callhub.io,55.0
+Observant,San Francisco,CA,92.0,71.0,28.57,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/observantai,observantai.com,55.0
+OpenPhone,San Francisco,CA,132.0,103.0,27.72,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/openphone,openphone.com,55.0
+ZITADEL,San Francisco,CA,20.0,14.0,42.86,1970-01-01 00:00:00.000002020,15500000.0,http://www.linkedin.com/company/zitadel,zitadel.com,55.0
+InfinyOn,Santa Clara,CA,15.0,18.0,-17.65,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/infinyon,infinyon.com,55.0
+Arcion Labs,San Mateo,CA,14.0,13.0,8.33,1970-01-01 00:00:00.000002018,18200000.0,http://www.linkedin.com/company/arcionlabs,arcion.io,55.0
+Learnsoft,San Diego,CA,30.0,42.0,-27.5,1970-01-01 00:00:00.000002001,16700000.0,http://www.linkedin.com/company/learnsoft-technology-group,learnsoft.com,55.0
+Monster API,San Francisco,CA,9.0,11.0,-10.0,,0.0,http://www.linkedin.com/company/monster-api,gomonster.ai,
+Oliv - Your AI Assistant for Sales,San Francisco,CA,32.0,8.0,287.5,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/oliv-ai,oliv.ai,55.0
+Gated,San Mateo,CA,43.0,58.0,-25.45,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/gated,gated.com,55.0
+Bitus Labs,Irvine,CA,55.0,42.0,31.71,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/bituslabs,bituslabs.com,55.0
+Zocket,San Francisco,CA,131.0,81.0,62.03,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/zocketdigital,zocket.ai,55.0
+Excarta,San Francisco,CA,6.0,6.0,0.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/excarta,excarta.io,55.0
+Aerotime,San Francisco,CA,5.0,5.0,0.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/aerotime,aerotime.com,55.0
+EvGateway,Irvine,CA,109.0,87.0,25.88,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/evgateway,evgateway.com,55.0
+Paraform,San Francisco,CA,113.0,87.0,30.59,1970-01-01 00:00:00.000002022,25600000.0,http://www.linkedin.com/company/paraformxyz,paraform.xyz,55.0
+Thatch,San Francisco,CA,90.0,37.0,144.44,1970-01-01 00:00:00.000002021,84000000.0,http://www.linkedin.com/company/thatch-ai,thatch.ai,55.0
+Rivian and Volkswagen Group Technologies,Palo Alto,CA,626.0,540.0,3131.58,1970-01-01 00:00:00.000002024,0.0,http://www.linkedin.com/company/rivian-and-vw-group-technologies,rivianvw.tech,55.0
+MetaMap,San Francisco,CA,366.0,489.0,-25.05,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/metmap,metamap.com,55.0
+Digital Foundry,Tiburon,CA,57.0,60.0,-5.0,1970-01-01 00:00:00.000001992,0.0,http://www.linkedin.com/company/digital-foundry,digitalfoundry.com,55.0
+Picsart Armenia,San Francisco,CA,213.0,210.0,1.46,1970-01-01 00:00:00.000002011,0.0,http://www.linkedin.com/company/picsart-armenia,picsart.com,55.0
+Matchday,San Francisco,CA,51.0,48.0,6.52,1970-01-01 00:00:00.000002022,21000000.0,http://www.linkedin.com/company/matchday,matchday.com,55.0
+Alcion,San Francisco,CA,11.0,26.0,-60.0,,29000000.0,http://www.linkedin.com/company/alcioninc,alcion.ai,
+Deccan AI,San Francisco,CA,112.0,12.0,816.67,,0.0,http://www.linkedin.com/company/ai-deccan,deccan.ai,
+Pliable,San Francisco,CA,13.0,11.0,20.0,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/getpliable,pliable.co,55.0
+Redpanda Data,San Francisco,CA,179.0,193.0,-7.61,1970-01-01 00:00:00.000002019,266000000.0,http://www.linkedin.com/company/redpanda-data,redpanda.com,55.0
+Vetted,San Francisco,CA,54.0,56.0,-3.77,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/vetted-ai,vetted.ai,55.0
+Arcade,San Francisco,CA,64.0,41.0,56.41,1970-01-01 00:00:00.000002021,21700000.0,http://www.linkedin.com/company/arcadehq,arcade.software,55.0
+Triton Software Engineering,San Diego,CA,78.0,71.0,8.57,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/tritonsoftwareengineering,tritonse.github.io,55.0
+Toucan (JoinToucan.com),Santa Monica,CA,4.0,5.0,-20.0,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/jointoucan,bit.ly/3qkztqv,55.0
+regie.ai,San Francisco,CA,97.0,62.0,55.74,1970-01-01 00:00:00.000002020,50800000.0,http://www.linkedin.com/company/regie-ai,regie.ai,55.0
+Live Data Technologies,Santa Barbara,CA,34.0,250.0,-86.55,1970-01-01 00:00:00.000002018,9900000.0,http://www.linkedin.com/company/gotlivedata,livedatatechnologies.com,55.0
+Tonic.xyz | Tonic Labs,San Francisco,CA,9.0,6.0,50.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/tonicxyz,tonic.xyz,55.0
+Chroma,San Francisco,CA,72.0,38.0,91.67,,0.0,http://www.linkedin.com/company/trychroma,trychroma.com,
+Extend,San Francisco,CA,300.0,398.0,-24.62,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/helloextend,extend.com,55.0
+Replicant,San Francisco,CA,177.0,171.0,3.57,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/replicant,replicant.com,55.0
+CFEX,San Francisco,CA,18.0,16.0,13.33,,0.0,http://www.linkedin.com/company/cfexcloud,cfex.cloud,
+Terzo,Los Angeles,CA,136.0,117.0,15.65,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/terzoai,terzo.ai,55.0
+Internet Soft,San Francisco,CA,51.0,32.0,61.29,1970-01-01 00:00:00.000002010,0.0,http://www.linkedin.com/company/internetsoft,internetsoft.com/contact-us,55.0
+OSlash,San Francisco,CA,34.0,40.0,-15.79,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/oslash,oslash.com,55.0
+Mnemonic,San Francisco,CA,9.0,14.0,-30.77,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/mnemonichq,mnemonichq.com,55.0
+Replika,San Francisco,CA,108.0,96.0,12.77,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/replikaai,replika.com,55.0
+Mawari,Los Altos,CA,29.0,20.0,47.37,1970-01-01 00:00:00.000002017,20300000.0,http://www.linkedin.com/company/mawari,mawari.io,55.0
+RIIICO,San Francisco,CA,33.0,20.0,60.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/riiico,riiico.com,55.0
+Zumen,Walnut,CA,38.0,32.0,19.35,,0.0,http://www.linkedin.com/company/zumen,zumen.com,
+Vama,Santa Monica,CA,64.0,28.0,133.33,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/vama-chat,vama.com,55.0
+UXCam,San Francisco,CA,102.0,110.0,-7.62,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/ux-cam,bit.ly/3vjfpeb,55.0
+Frigade (YC W23),San Francisco,CA,4.0,4.0,0.0,,0.0,http://www.linkedin.com/company/frigade,frigade.com,
+Outbuild,San Francisco,CA,65.0,40.0,64.1,1970-01-01 00:00:00.000002021,11800000.0,http://www.linkedin.com/company/outbuildconstruction,outbuild.com,55.0
+RisingWave Labs,San Francisco,CA,48.0,42.0,14.63,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/risingwave-labs,risingwave.com,55.0
+Homebase,San Francisco,CA,1573.0,1025.0,53.43,1970-01-01 00:00:00.000002014,170000000.0,http://www.linkedin.com/company/homebase-app,joinhomebase.com,55.0
+Simplify,San Francisco,CA,92.0,49.0,87.23,,4330000.0,http://www.linkedin.com/company/simplifyjobs,simplify.jobs,
+PropBidder,Newport Beach,CA,2.0,1.0,100.0,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/propbidder,propbidder.com,55.0
+Monnai,San Francisco,CA,53.0,44.0,19.05,1970-01-01 00:00:00.000002021,10100000.0,http://www.linkedin.com/company/monnai,monnai.com,55.0
+HypeLab,San Francisco,CA,8.0,8.0,0.0,,0.0,http://www.linkedin.com/company/gohypelab,hypelab.com,
+Immerse,Irvine,CA,60.0,42.0,42.5,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/immerseinc,immerse.online,55.0
+Ario,Palo Alto,CA,34.0,29.0,17.86,1970-01-01 00:00:00.000002022,16000000.0,http://www.linkedin.com/company/heyario,heyario.com,55.0
+Coda,San Francisco,CA,311.0,331.0,-6.03,1970-01-01 00:00:00.000002014,240000000.0,http://www.linkedin.com/company/codainc,coda.io,55.0
+LeadrPro,Santa Monica,CA,9.0,18.0,-47.06,,0.0,http://www.linkedin.com/company/leadrpro,leadrpro.com,
+Voyage SMS,Santa Monica,CA,15.0,34.0,-56.25,1970-01-01 00:00:00.000002018,10000000.0,http://www.linkedin.com/company/voyage-sms,voyagesms.com,55.0
+Cubist,San Diego,CA,12.0,7.0,57.14,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/cubist-inc,cubist.dev,55.0
+WireMock,Menlo Park,CA,18.0,5.0,240.0,,0.0,http://www.linkedin.com/company/wiremock,wiremock.org,
+Epik Solutions,Pleasant Hill,CA,165.0,165.0,0.0,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/epikso,epikso.com,55.0
+Clerk.com,San Francisco,CA,168.0,121.0,39.13,1970-01-01 00:00:00.000002019,54400000.0,http://www.linkedin.com/company/clerkinc,clerk.dev,55.0
+bit.io,San Francisco,CA,3.0,13.0,-75.0,,0.0,http://www.linkedin.com/company/bitdotioinc,bit.io,
+Top Rated UX Design Firm,Los Angeles,Ca,39.0,30.0,31.03,1970-01-01 00:00:00.000002016,0.0,http://www.linkedin.com/company/wandrstudio,wandr.studio,55.0
+Aviator,San Francisco,CA,27.0,14.0,85.71,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/aviator-co,aviator.co,55.0
+HackerEarth,San Francisco,CA,526.0,564.0,-6.69,1970-01-01 00:00:00.000002012,0.0,http://www.linkedin.com/company/hackerearth,hackerearth.com,55.0
+IntelligentDX,Pasadena,CA,64.0,45.0,43.18,,0.0,http://www.linkedin.com/company/intelligentdx,intelligentdx.com,
+Persist Ventures,Los Angeles,CA,161.0,96.0,68.09,,0.0,http://www.linkedin.com/company/persist-ventures,persistventures.com,
+Powerhouse,San Jose,CA,98.0,68.0,43.28,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/powerhouseinc,powerhouse.so,55.0
+Replo (YC S21),San Francisco,CA,71.0,63.0,13.33,1970-01-01 00:00:00.000002021,4330000.0,http://www.linkedin.com/company/replohq,replo.app,55.0
+Metaverse Fashion Council,Los Angeles,CA,135.0,114.0,17.86,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/metaverse-fashion-council,metaversefashioncouncil.org,55.0
+SigFig,San Francisco,CA,146.0,180.0,-18.75,1970-01-01 00:00:00.000002006,0.0,http://www.linkedin.com/company/sigfig,sigfig.com/home,55.0
+SymphonyOS,Los Angeles,CA,17.0,13.0,33.33,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/symphonyos,symphony.to,55.0
+Camber,San Francisco,CA,5.0,,21.88,1970-01-01 00:00:00.000002024,0.0,http://www.linkedin.com/company/cambercloud,cambercloud.com,55.0
+The Easy Company,San Francisco,CA,19.0,22.0,-14.29,,0.0,http://www.linkedin.com/company/theeasyco,easy.me,
+ShapesXR,San Mateo,CA,23.0,28.0,-18.52,1970-01-01 00:00:00.000002016,8600000.0,http://www.linkedin.com/company/shapesxr,shapesxr.com,55.0
+Ahara Corporation,Los Angeles,CA,18.0,21.0,-15.0,1970-01-01 00:00:00.000002022,10000000.0,http://www.linkedin.com/company/ahara-corporation,ahara.com,55.0
+Auditmate,San Francisco,CA,21.0,20.0,5.26,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/auditmate,auditmate.com,55.0
+AiDEN Auto,San Ramon,CA,19.0,20.0,-5.0,,11000000.0,http://www.linkedin.com/company/aidenauto,aidenauto.com,
+Houseware,San Francisco,CA,24.0,29.0,-17.86,1970-01-01 00:00:00.000002021,2100000.0,http://www.linkedin.com/company/gethouseware,houseware.io,55.0
+Boost,,CA,29.0,19.0,47.37,,0.0,http://www.linkedin.com/company/boostresults,boostresults.com,
+Kubit,Fremont,CA,49.0,50.0,-2.08,1970-01-01 00:00:00.000002018,24600000.0,http://www.linkedin.com/company/kubit-ai,kubit.ai,55.0
+Xurrent,Santa Barbara,CA,128.0,92.0,38.89,1970-01-01 00:00:00.000002010,0.0,http://www.linkedin.com/company/xurrent,xurrent.com,55.0
+Nearsure,Los Angeles,CA,312.0,220.0,41.67,,0.0,http://www.linkedin.com/company/nearsure,nearsure.com,
+Lume (YC W23),San Francisco,CA,7.0,4.0,75.0,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/lume-ai,lume.ai,55.0
+ProPlanner - Construction Scheduling and Planning,San Francisco,CA,37.0,30.0,20.69,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/proplannerconstruction,proplanner.build,55.0
+Beacon AI,San Carlos,CA,22.0,15.0,46.67,1970-01-01 00:00:00.000002021,19600000.0,http://www.linkedin.com/company/beacon-ai,beaconai.co,55.0
+Traceable AI,San Francisco,CA,150.0,205.0,-26.67,1970-01-01 00:00:00.000002018,80200000.0,http://www.linkedin.com/company/traceable-ai,traceable.ai,55.0
+Swantide,San Francisco,CA,14.0,20.0,-31.58,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/swantide,swantide.com,55.0
+Clearstory,San Francisco,CA,69.0,55.0,25.93,1970-01-01 00:00:00.000002018,30300000.0,http://www.linkedin.com/company/clearstory-build,clearstory.build,55.0
+Supermove,San Francisco,CA,52.0,38.0,37.84,,0.0,http://www.linkedin.com/company/supermoveco,supermove.com,
+Distyl AI,San Francisco,CA,63.0,23.0,172.73,,27000000.0,http://www.linkedin.com/company/distylai,distyl.ai,
+Triumph Labs,San Francisco,CA,16.0,16.0,0.0,,0.0,http://www.linkedin.com/company/triumphlabs,triumpharcade.com,
+Magical,San Francisco,CA,81.0,67.0,20.31,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/getmagical,getmagical.com,55.0
+Augment Code,Palo Alto,CA,99.0,44.0,125.58,1970-01-01 00:00:00.000002022,252000000.0,http://www.linkedin.com/company/augmentinc,augmentcode.com,55.0
+Play Caller Sports,Palo Alto,CA,3.0,3.0,0.0,,0.0,http://www.linkedin.com/company/playcaller,playcaller.io,
+Rill Data,San Francisco,CA,39.0,34.0,15.63,1970-01-01 00:00:00.000002020,16600000.0,http://www.linkedin.com/company/rilldata,rilldata.com,55.0
+Aeqium,San Francisco,CA,16.0,14.0,15.38,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/aeqium,aeqium.com,55.0
+Plai Labs,Los Angeles,CA,79.0,39.0,102.7,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/plai-labs,plailabs.com,55.0
+LighthouseAI,Los Angeles,CA,,,21.88,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/lighthouseai,lighthouseai.com,55.0
+Courie,San Francisco,CA,17.0,11.0,54.55,1970-01-01 00:00:00.000002022,4830000.0,http://www.linkedin.com/company/courie,courie.ai,55.0
+Google Developer Experts,Mountain View,CA,1421.0,931.0,52.57,,0.0,http://www.linkedin.com/company/experts-program,developers.google.com/experts,
+Mortgage Coach,Irvine,CA,26.0,35.0,-26.47,,0.0,http://www.linkedin.com/company/mortgagecoach,mortgagecoach.com,
+Addiction Recovery,Oceanside,CA,53.0,46.0,15.56,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/addiction-recovery,content.addictionrecovery.com,55.0
+Bright,San Rafael,CA,167.0,140.0,19.55,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/brightappsec,brightsec.com,55.0
+Blaze,Los Angeles,CA,17.0,8.0,100.0,,0.0,http://www.linkedin.com/company/blaze-technology,blaze.tech,
+LightBeam.ai,San Jose,CA,77.0,56.0,36.36,,22300000.0,http://www.linkedin.com/company/lightbeamai,lightbeam.ai,
+Backbone,San Francisco,CA,21.0,27.0,-23.08,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/backboneiq,backboneiq.com,55.0
+Seaplane IO,Mountain View,CA,26.0,34.0,-21.88,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/seaplaneio,seaplane.io,55.0
+Analog,San Francisco,CA,60.0,50.0,20.41,1970-01-01 00:00:00.000002021,36000000.0,http://www.linkedin.com/company/analogone,analog.one,55.0
+Toplyne.io,San Francisco,CA,65.0,95.0,-31.18,,0.0,http://www.linkedin.com/company/toplynehq,toplyne.io,
+Nifty League,Mill Valley,CA,8.0,12.0,-27.27,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/niftyleague,niftyleague.com,55.0
+Galileo,,CA,117.0,80.0,47.44,,68000000.0,http://www.linkedin.com/company/galileo-ai,rungalileo.io,
+Tailor,渋谷区,CA,138.0,82.0,68.75,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/tailortech,tailor.tech,55.0
+topmate.io,San Francisco,CA,1503.0,858.0,75.27,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/topmate-io,topmate.io,55.0
+MyShell.ai,San Francisco,CA,14.0,16.0,-12.5,1970-01-01 00:00:00.000002023,16800000.0,http://www.linkedin.com/company/ai-myshell,myshell.ai,55.0
+Looq AI,San Diego,CA,16.0,15.0,6.67,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/looqai,looq.ai,55.0
+Prive,San Francisco,CA,742.0,515.0,43.96,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/tryprive,tryprive.com,55.0
+Zing Data,San Francisco,CA,4.0,6.0,-33.33,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/zingdata,getzingdata.com,55.0
+SaaSGrid,San Francisco,CA,13.0,6.0,100.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/saasgrid,saasgrid.com,55.0
+Ninjatech Ai,Palo Alto,CA,23.0,17.0,37.5,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/ninjatech-ai,ninjatech.ai,55.0
+Handle.com,,CA,75.0,53.0,42.31,,19600000.0,http://www.linkedin.com/company/handleinc,handle.com,
+techjays,Santa Clara,CA,158.0,130.0,22.05,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/techjays,techjays.com,55.0
+Postman,San Francisco,CA,2212.0,2195.0,0.81,1970-01-01 00:00:00.000002014,433000000.0,http://www.linkedin.com/company/postman-api-tools,getpostman.com,55.0
+DisplayRide,San Jose,CA,6.0,8.0,-25.0,,0.0,http://www.linkedin.com/company/displayride-inc,displayride.com,
+Uber for Business,San Francisco,CA,975.0,705.0,38.35,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/uber-for-business,uber.com/business,55.0
+Klu.ai,San Francisco,CA,3.0,6.0,-50.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/klu-ai,klu.ai,55.0
+Tarsal,San Francisco,CA,15.0,17.0,-11.76,,6000000.0,http://www.linkedin.com/company/tarsal,tarsal.co,
+Nuvo,,CA,55.0,41.0,35.0,,0.0,http://www.linkedin.com/company/nuvocredit,nuvo.credit,
+iTrustCapital,Long Beach,CA,73.0,58.0,26.32,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/itrustcapital00,itrustcapital.com,55.0
+Agile Six,San Diego,CA,97.0,69.0,39.71,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/agilesix,agile6.com,55.0
+Yellow,Palo Alto,CA,11.0,11.0,0.0,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/yellow3d,yellow3d.com,55.0
+Kurrent (formerly Event Store),San Francisco,CA,73.0,82.0,-10.0,1970-01-01 00:00:00.000002012,27600000.0,http://www.linkedin.com/company/kurrent-io,kurrent.io,55.0
+MedaSystems,Menlo Park,CA,18.0,15.0,21.43,1970-01-01 00:00:00.000002020,7000000.0,http://www.linkedin.com/company/medasystems,medasystems.com,55.0
+Cleric,San Francisco,CA,17.0,9.0,88.89,1970-01-01 00:00:00.000002023,4300000.0,http://www.linkedin.com/company/cleric-io,cleric.io,55.0
+Adept AI Labs,San Francisco,CA,100.0,45.0,120.93,,0.0,http://www.linkedin.com/company/adeptailabs,adeptailabs.com,
+Swiftly,San Francisco,CA,115.0,95.0,21.51,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/swiftlyinc,goswift.ly,55.0
+LumenVox,San Diego,CA,11.0,17.0,-35.29,1970-01-01 00:00:00.000002001,0.0,http://www.linkedin.com/company/lumenvox,lumenvox.com,55.0
+ParkourSC,San Jose,CA,64.0,44.0,45.24,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/parkoursc,parkoursc.com,55.0
+Skool,Los Angeles,CA,283.0,186.0,52.2,,0.0,http://www.linkedin.com/company/skool-com,skool.com,
+TicketManager,Calabasas,CA,106.0,84.0,26.83,1970-01-01 00:00:00.000002007,0.0,http://www.linkedin.com/company/ticketmanager,ticketmanager.com,55.0
+Vontive,San Francisco,CA,52.0,57.0,-8.93,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/vontive,vontive.com,55.0
+AgTools,Irvine,CA,44.0,37.0,19.44,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/agtools,ag.tools,55.0
+Certa.ai,Saratoga,CA,207.0,226.0,-8.56,1970-01-01 00:00:00.000002017,52300000.0,http://www.linkedin.com/company/getcerta,certa.ai,55.0
+OnSolve,Alpharetta,CA,498.0,475.0,4.73,1970-01-01 00:00:00.000002001,0.0,http://www.linkedin.com/company/onsolve,onsolve.com,55.0
+Nucla,San Francisco,CA,8.0,8.0,0.0,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/nucla,nucla.com,55.0
+Revnue,West Covina,CA,105.0,84.0,25.61,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/revnuecorp,revnue.com,55.0
+GigaCloud Technology,City Of Industry,CA,77.0,54.0,41.51,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/giga-cloud-technology,gigacloudtech.com,55.0
+Retreat,San Francisco,CA,36.0,27.0,34.62,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/planretreat,planretreat.com,55.0
+Kippo (Covalent Inc.),Los Angeles,CA,12.0,17.0,-31.25,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/kippo-covalent-inc,kippoapp.com,55.0
+Echo Labs,San Francisco,CA,93.0,24.0,279.17,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/echolabsai,el.ai,55.0
+Jarvis ML,Cupertino,CA,38.0,38.0,0.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/jarvis-ml,jarvisml.com,55.0
+Trango Tech,San Jose,CA,53.0,40.0,33.33,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/trangotech,trangotech.com,55.0
+Worksuite (formerly Shortlist),San Francisco,CA,65.0,69.0,-5.88,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/worksuiteinc,worksuite.com,55.0
+Yugabyte,Sunnyvale,CA,552.0,507.0,8.9,1970-01-01 00:00:00.000002016,291000000.0,http://www.linkedin.com/company/yugabyte,yugabyte.com,55.0
+Smart IT,San Francisco,CA,115.0,94.0,22.34,1970-01-01 00:00:00.000002011,0.0,http://www.linkedin.com/company/smart-it.io,smart-it.io,55.0
+Tagbox,Covina,CA,79.0,58.0,35.09,,0.0,http://www.linkedin.com/company/tagboxsocial,taggbox.com,
+Outlier,San Francisco,CA,682.0,12.0,5475.0,,0.0,http://www.linkedin.com/company/try-outlier,tryoutlier.com,
+Clockwork Systems,Palo Alto,CA,27.0,27.0,0.0,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/clockwork-systems-inc,clockwork.io,55.0
+RadiantGraph,San Francisco,CA,18.0,11.0,63.64,1970-01-01 00:00:00.000002023,17000000.0,http://www.linkedin.com/company/radiantgraph,radiantgraph.com,55.0
+PostSig,San Francisco,CA,11.0,3.0,266.67,1970-01-01 00:00:00.000002024,0.0,http://www.linkedin.com/company/postsig,postsig.com,55.0
+Payabli,Los Angeles,CA,68.0,39.0,75.68,1970-01-01 00:00:00.000002020,32500000.0,http://www.linkedin.com/company/payabli,payabli.com,55.0
+Trick Studios,Los Angeles,CA,242.0,154.0,56.95,,0.0,http://www.linkedin.com/company/trick-studios,trickgs.com,
+Pando,San Francisco,CA,18.0,22.0,-19.05,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/pandohr,pandohr.com,55.0
+ManageAmerica | Property Management Software,Los Angeles,CA,71.0,56.0,27.27,1970-01-01 00:00:00.000001999,0.0,http://www.linkedin.com/company/manageamerica,manageamerica.com,55.0
+Kolena,San Francisco,CA,36.0,43.0,-17.07,1970-01-01 00:00:00.000002021,18100000.0,http://www.linkedin.com/company/kolena-ai,kolena.io,55.0
+Wisq,Redwood City,CA,26.0,39.0,-32.43,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/wisq,wisq.com,55.0
+Visbit,Sunnyvale,CA,10.0,10.0,0.0,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/visbit-inc-,visbit.co,55.0
+Toku,San Francisco,CA,211.0,151.0,39.86,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/trytoku,hubs.ly/q024v65-0,55.0
+Campfire,San Francisco,CA,13.0,9.0,44.44,1970-01-01 00:00:00.000002023,4000000.0,http://www.linkedin.com/company/meetcampfire,meetcampfire.com,55.0
+Pledge Finance,Palo Alto,CA,2.0,3.0,-33.33,,0.0,http://www.linkedin.com/company/pledgerfinance,pledger.finance,
+Primer,Oakland,CA,84.0,71.0,17.65,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/primermicroschools,primer.com,55.0
+Skylab,West Hollywood,CA,54.0,44.0,23.26,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/skylab-x,skylabx.com,55.0
+Harmonic,Palo Alto,CA,32.0,11.0,181.82,,75000000.0,http://www.linkedin.com/company/harmonicmath,harmonic.fun,
+Taxflow,San Francisco,CA,5.0,,21.88,,0.0,http://www.linkedin.com/company/jointaxflow,jointaxflow.ai,
+Secuvy,San Ramon,CA,28.0,9.0,200.0,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/secuvy,secuvy.ai,55.0
+Prompt AI,San Francisco,CA,16.0,9.0,77.78,,0.0,http://www.linkedin.com/company/prompt-ai-co,promptai.co,
+3RM.co,San Francisco,CA,9.0,15.0,-35.71,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/3rm-co,3rm.co,55.0
+Nexusflow,Palo Alto,CA,17.0,14.0,21.43,,0.0,http://www.linkedin.com/company/nexusflow-ai,nexusflow.ai,
+Galileo,San Francisco,CA,121.0,82.0,47.44,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/galileo-ai,rungalileo.io,55.0
+Blitz,Los Angeles,CA,96.0,88.0,9.3,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/theblitzapp,blitz.gg,55.0
+ApertureData,Mountain View,CA,12.0,11.0,10.0,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/aperturedata,aperturedata.io,55.0
+Trimwire,San Francisco,CA,1.0,5.0,-80.0,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/trimwire,trimwire.com,55.0
+Applied Business Software,Signal Hill,CA,69.0,51.0,36.0,1970-01-01 00:00:00.000001978,0.0,http://www.linkedin.com/company/the-mortgage-office,themortgageoffice.comexternal,55.0
+Kahoona,California,CA,20.0,27.0,-26.92,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/kahoonaio,kahoona.io,55.0
+Pipeshift (YC S24),San Fransico,CA,16.0,9.0,77.78,1970-01-01 00:00:00.000002023,3000000.0,http://www.linkedin.com/company/pipeshift,pipeshift.com,55.0
+Optiwise.ai,Newark,CA,37.0,42.0,-12.5,,1300000.0,http://www.linkedin.com/company/optiwise-ai,optiwise.ai,
+Enerflo,Huntington Beach,CA,97.0,72.0,33.8,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/enerflo,enerflo.com,55.0
+Startup in Stealth Mode,San Francisco,CA,32.0,32.0,0.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/organization-in-stealth-mode,startupper.7linternational.com,55.0
+KeyShot,Costa Mesa,CA,182.0,126.0,43.55,1970-01-01 00:00:00.000002010,0.0,http://www.linkedin.com/company/keyshot,keyshot.com,55.0
+8Flow,Los Angeles,CA,18.0,13.0,41.67,1970-01-01 00:00:00.000002022,16600000.0,http://www.linkedin.com/company/8flow,8flow.com,55.0
+Jointly,Los Angeles,CA,21.0,21.0,0.0,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/jointlybetter,jointlybetter.com,55.0
+Palona AI,Menlo Park,CA,22.0,4.0,450.0,1970-01-01 00:00:00.000002024,0.0,http://www.linkedin.com/company/palona-ai,palona.ai/pizza-expo,55.0
+Namecoach,Palo Alto,CA,38.0,54.0,-29.41,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/namecoach,name-coach.com,55.0
+Stealth AI,San Francisco,CA,21.0,13.0,61.54,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/stealth-ai-2,stealth.ai,55.0
+CoordinateHQ,Redwood City,CA,7.0,6.0,16.67,,0.0,http://www.linkedin.com/company/coordinatehq,coordinatehq.com,
+JustPaid.io,Mountain View,CA,19.0,16.0,20.0,1970-01-01 00:00:00.000002022,4000000.0,http://www.linkedin.com/company/justpaid,justpaid.io,55.0
+Holistic AI,Palo Alto,CA,81.0,78.0,3.95,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/holisticai,holisticai.com,55.0
+Baklava,Los Angeles,CA,35.0,22.0,54.55,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/baklava,baklavaapp.com,55.0
+REDCap Cloud,Encinitas,CA,136.0,110.0,23.15,1970-01-01 00:00:00.000002016,0.0,http://www.linkedin.com/company/redcapcloud,redcapcloud.com,55.0
+Descope,Los Altos,CA,84.0,57.0,48.15,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/descope,descope.com,55.0
+Roro,San Francisco,CA,53.0,43.0,23.81,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/roro-solutions,roro.io,55.0
+Wave,Los Angeles,CA,113.0,129.0,-11.9,1970-01-01 00:00:00.000002016,0.0,http://www.linkedin.com/company/thewavexr,wavexr.com,55.0
+Daash Intelligence,San Francisco,CA,14.0,9.0,55.56,1970-01-01 00:00:00.000002022,8250000.0,http://www.linkedin.com/company/daash-intelligence,daash.co,55.0
+Beam,San Francisco,CA,18.0,13.0,38.46,,15000000.0,http://www.linkedin.com/company/trybeamhq,trybeam.com,
+Tandem,San Francisco,CA,12.0,13.0,-7.69,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/tandem-chat,tandem.chat,55.0
+COMMUNITYx,Los Angeles,CA,6.0,8.0,-25.0,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/communityx,communityx.tech,55.0
+LokiBots,Milpitas,CA,26.0,27.0,-3.85,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/lokibots,lokibots.ai,55.0
+Tinder,Los Angeles,CA,1089.0,1021.0,6.69,1970-01-01 00:00:00.000002012,0.0,http://www.linkedin.com/company/tinder-incorporated,lifeattinder.com,55.0
+C3 AI,Redwood City,CA,1256.0,1209.0,3.88,,0.0,http://www.linkedin.com/company/c3-ai-enterprise-ai,c3.ai,
+TASK,Mona Vale,CA,264.0,223.0,18.26,1970-01-01 00:00:00.000002000,0.0,http://www.linkedin.com/company/task-retail-technology,tasksoftware.com,55.0
+Rooster Scheduling,San Francisco,CA,28.0,5.0,440.0,,0.0,http://www.linkedin.com/company/rooster-scheduling,rooster.us,
+Canal,San Francisco,CA,66.0,61.0,8.62,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/shopcanal,shopcanal.com,55.0
+Demox Labs,San Francisco,CA,11.0,12.0,-9.09,,0.0,http://www.linkedin.com/company/demox-labs,leo.app,
+Cresicor,San Francisco,CA,95.0,95.0,0.0,,5600000.0,http://www.linkedin.com/company/cresicor,cresicor.com,
+Monterra,San Francisco,CA,12.0,7.0,71.43,,0.0,http://www.linkedin.com/company/monterra-ai,monterra.ai,
+WeblineIndia,Carlsbad,CA,131.0,124.0,5.65,1970-01-01 00:00:00.000001999,0.0,http://www.linkedin.com/company/weblineindia,weblineindia.com,55.0
+Stell,Venice,CA,17.0,8.0,100.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/stell-engineering,stell-engineering.com,55.0
+Hemera,Mountain View,CA,16.0,15.0,6.67,1970-01-01 00:00:00.000002020,5280000.0,http://www.linkedin.com/company/thehemera,thehemera.com,55.0
+3Laws,Pasadena,CA,8.0,5.0,60.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/3laws,3laws.io,55.0
+RagaAI,San Francisco Bay Area,CA,62.0,67.0,-7.58,,4690000.0,http://www.linkedin.com/company/raga-ai,raga.ai,
+BLACKBOX.AI,San Francisco,CA,180.0,162.0,10.69,,0.0,http://www.linkedin.com/company/blackboxtech,blackbox.ai,
+Komplyd,San Jose,CA,12.0,7.0,57.14,,0.0,http://www.linkedin.com/company/komplyd,komplyd.com,
+Integral,San Francisco,CA,17.0,14.0,23.08,,14800000.0,http://www.linkedin.com/company/integralhealthcare,useintegral.com,
+Cloudtenna,Sunnyvale,CA,1.0,1.0,0.0,1970-01-01 00:00:00.000002013,0.0,http://www.linkedin.com/company/cloudtenna,cloudtenna.com,55.0
+Breakout,San Francisco,CA,15.0,10.0,50.0,1970-01-01 00:00:00.000002020,21100000.0,http://www.linkedin.com/company/6598373,getbreakout.com,55.0
+Airforce Base,Riverside,CA,690.0,533.0,29.25,,0.0,http://www.linkedin.com/company/airforce-base,airforce.com/contact-us/base-locator/external,
+PlusPlus,San Francisco,CA,18.0,12.0,54.55,1970-01-01 00:00:00.000002016,0.0,http://www.linkedin.com/company/plusplus.co,plusplus.co,55.0
+Gas,Los Angeles,CA,290.0,173.0,67.06,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/gasapp,gasapp.co,55.0
+Dell EMC XtremIO,Santa Clara,CA,420.0,417.0,0.73,1970-01-01 00:00:00.000002009,0.0,http://www.linkedin.com/company/xtremio,emc.com/en-us/storage/xtremio/benefits.htm,55.0
+eDRV,San Francisco,CA,15.0,14.0,7.69,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/edrvio,edrv.io,55.0
+VDURA,Milpitas,CA,71.0,28.0,159.26,,0.0,http://www.linkedin.com/company/vdurainc,vdura.com/accelerate-ai-innovation-with-vdura-at-nvidia-gtc-2025,
+jellibeans,Tustin,CA,8.0,10.0,-20.0,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/jellibeans,jellibeans.com,55.0
+iMerit Technology,Los Gatos,CA,6028.0,5256.0,14.68,,23500000.0,http://www.linkedin.com/company/imerit,imerit.net,
+Henry Meds,San Francisco,CA,477.0,289.0,65.37,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/henry-meds,henrymeds.com,55.0
+Questflow,Emeryville,CA,6.0,2.0,200.0,,0.0,http://www.linkedin.com/company/questflow,questflow.ai,
+Zitti,Santa Monica,CA,32.0,27.0,15.38,,0.0,http://www.linkedin.com/company/zitti,zitti.com,
+Noctal,Los Angeles,CA,12.0,,21.88,,0.0,http://www.linkedin.com/company/noctalinc,noctal.xyz,
+Klarity,San Francisco,CA,123.0,97.0,27.37,,0.0,http://www.linkedin.com/company/tryklarity,tryklarity.com,
+Rev,San Diego,CA,87.0,91.0,-4.49,1970-01-01 00:00:00.000002013,0.0,http://www.linkedin.com/company/getrev,getrev.ai,55.0
+Arena Club,Los Angeles,CA,46.0,29.0,57.14,,25400000.0,http://www.linkedin.com/company/goarenaclub,arenaclub.com,
+TeamOhana,San Francisco,CA,40.0,33.0,22.58,1970-01-01 00:00:00.000002021,11500000.0,http://www.linkedin.com/company/teamohana,teamohana.com,55.0
+SparkPlug,San Francisco,CA,50.0,50.0,0.0,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/sparkplugapp,sparkplug.app,55.0
+Publica By IAS,San Francisco,CA,202.0,158.0,27.74,,0.0,http://www.linkedin.com/company/publica-by-ias,getpublica.com,
+PALANTIR USG,Palo Alto,CA,1.0,1.0,0.0,1970-01-01 00:00:00.000002010,0.0,http://www.linkedin.com/company/palantir-usg-inc.,palantirtech.com,55.0
+Prelim,San Francisco,CA,41.0,35.0,18.18,1970-01-01 00:00:00.000002017,3710000.0,http://www.linkedin.com/company/prelimsolutions,prelim.com,55.0
+Nestor,San Francisco,CA,54.0,39.0,37.84,1970-01-01 00:00:00.000002018,6070000.0,http://www.linkedin.com/company/nestorup,nestorup.com,55.0
+Pulsora,San Mateo,CA,113.0,116.0,-2.63,,33000000.0,http://www.linkedin.com/company/pulsora,pulsora.com,
+nodaFi,San Francisco,CA,19.0,6.0,216.67,1970-01-01 00:00:00.000002018,3500000.0,http://www.linkedin.com/company/nodafi,nodafi.com,55.0
+Tabular,San Jose,CA,25.0,54.0,-52.94,1970-01-01 00:00:00.000002021,37000000.0,http://www.linkedin.com/company/tabular-io,tabular.io,55.0
+Pipeful,San Francisco,CA,115.0,8.0,1312.5,1970-01-01 00:00:00.000002000,0.0,http://www.linkedin.com/company/pipeful,pipeful.io,55.0
+Sidekick,Los Angeles,CA,3.0,4.0,-25.0,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/sidekick-hq,sidekick-hq.com,55.0
+Fylamynt,Mountain View,CA,6.0,20.0,-68.42,1970-01-01 00:00:00.000002019,6500000.0,http://www.linkedin.com/company/fylamynt,fylamynt.com,55.0
+Coding Crafts,San Francisco,CA,57.0,46.0,24.44,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/codingcraftsllc,codingcrafts.io,55.0
+Canopy,Palo Alto,CA,30.0,30.0,0.0,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/canopy-care,canopycare.us,55.0
+Upfront Ventures,Santa Monica,CA,46.0,48.0,-4.26,1970-01-01 00:00:00.000001996,1740000.0,http://www.linkedin.com/company/upfront-ventures,upfront.com,55.0
+Dibbs,El Segundo,CA,22.0,34.0,-34.38,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/dibbsio,linktr.ee/dibbs.io,55.0
+Biosero,San Diego,CA,125.0,83.0,51.85,1970-01-01 00:00:00.000002003,0.0,http://www.linkedin.com/company/biosero-inc,biosero.com,55.0
+ODK,San Diego,CA,29.0,14.0,100.0,,0.0,http://www.linkedin.com/company/getodk,getodk.org,
+WOLFCOM,Pasadena,CA,18.0,14.0,21.43,1970-01-01 00:00:00.000002001,0.0,http://www.linkedin.com/company/wolfcom%C2%AE,wolfcomusa.com,55.0
+BuyerCaddy,Santa Barbara,CA,14.0,14.0,0.0,,4850000.0,http://www.linkedin.com/company/buyercaddy,buyercaddy.com,
+Terminal49,San Francisco,CA,20.0,17.0,18.75,1970-01-01 00:00:00.000002017,8620000.0,http://www.linkedin.com/company/terminal49,terminal49.com,55.0
+Abbey Labs,San Francisco,CA,2.0,7.0,-71.43,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/abbey-labs,abbey.io,55.0
+Celito Tech,Redwood City,CA,102.0,79.0,29.87,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/celito-tech-inc,celitotech.com,55.0
+Perfect Venue,San Francisco,CA,18.0,12.0,54.55,,0.0,http://www.linkedin.com/company/perfect-venue,perfectvenue.com,
+STORI AI,San Francisco,CA,11.0,17.0,-35.29,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/storiai,storiai.com,55.0
+3nets.io,Santa Clara,CA,6.0,20.0,-68.42,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/3nets-io,3nets.io,55.0
+Nexus,San Francisco,CA,79.0,15.0,413.33,,27200000.0,http://www.linkedin.com/company/nexus,nexus.xyz,
+Camio,San Mateo,CA,20.0,30.0,-34.48,1970-01-01 00:00:00.000002011,0.0,http://www.linkedin.com/company/camiolog,camio.com,55.0
+Exafunction,Mountain View,CA,13.0,5.0,140.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/exafunction,exafunction.com,55.0
+Workorder,Santa Monica,CA,7.0,9.0,-22.22,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/workorder,workorder.ai,55.0
+Sprouts.ai,San Francisco,CA,134.0,95.0,40.86,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/sprouts-ai,sprouts.ai,55.0
+Chkk,Sunnyvale,CA,12.0,8.0,50.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/chkk-io,chkk.io,55.0
+Budy,Palo Alto,CA,8.0,4.0,100.0,1970-01-01 00:00:00.000002024,0.0,http://www.linkedin.com/company/budy-bot,budybot.ai,55.0
+Dropbase,San Francisco,CA,6.0,6.0,0.0,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/dropbase,dropbase.io,55.0
+Adobe Technical Communication,San Jose,CA,56.0,46.0,22.22,1970-01-01 00:00:00.000001982,0.0,http://www.linkedin.com/company/adobetcs,adobe.com/products/one-adobe-solution-for-technical-content.html,55.0
+Jackson Square Ventures,San Francisco,CA,10.0,10.0,0.0,,0.0,http://www.linkedin.com/company/jsv-vc,jsv.com,
+Programize,Riverside,CA,63.0,71.0,-11.43,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/programize-llc,programize.com,55.0
+HappyRobot,San Francisco,CA,6.0,4.0,50.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/happyrobot,happyrobot.ai,55.0
+zbyte,San Francisco,CA,25.0,35.0,-27.27,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/zbytio,zbyte.io,55.0
+Kadence,San Francisco,CA,63.0,54.0,17.65,1970-01-01 00:00:00.000002013,0.0,http://www.linkedin.com/company/kadenceos,kadence.co,55.0
+MOTER Technologies,Torrance,CA,57.0,46.0,24.44,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/moter-technologies,moter.ai,55.0
+Axiom Health,San Diego,CA,27.0,18.0,44.44,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/axiomhealth,axiomhealth.com,55.0
+TeachMeTo,San Francisco,CA,78.0,51.0,51.02,,7500000.0,http://www.linkedin.com/company/teachme-to,teachme.to,
+Cordial,San Diego,CA,242.0,208.0,16.18,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/becordial,cordial.com,55.0
+Nue.io,San Francisco,CA,84.0,55.0,53.85,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/nue-io,nue.io,55.0
+Inngest,San Francisco,CA,16.0,12.0,33.33,,14800000.0,http://www.linkedin.com/company/inngest-inc,inngest.com,
+Lasso MD,San Diego,CA,38.0,37.0,2.86,1970-01-01 00:00:00.000002018,3000000.0,http://www.linkedin.com/company/lassomd,lassomd.com,55.0
+Bakkal Corporation,Bay Area,CA,85.0,43.0,97.56,1970-01-01 00:00:00.000002021,3000000.0,http://www.linkedin.com/company/bakkal-corporation,getbakkal.com,55.0
+Rubber Ducky Labs (YC W23),San Francisco,CA,4.0,3.0,33.33,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/rubber-ducky-labs,rubberduckylabs.io,55.0
+Privado.ai,San Francisco,CA,329.0,228.0,44.24,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/privado-ai,privado.ai,55.0
+Default,San Francisco,CA,66.0,53.0,25.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/withdefault,default.com,55.0
+Tenor,San Francisco,CA,8.0,2.0,300.0,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/tenorhq,tenorhq.com,55.0
+FYI,Los Angeles,CA,114.0,73.0,55.56,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/fyi-me,fyi.me,55.0
+Heard,San Francisco,CA,83.0,84.0,-1.25,1970-01-01 00:00:00.000002019,26700000.0,http://www.linkedin.com/company/joinheardinc,joinheard.com,55.0
+Replicate,San Francisco,CA,49.0,14.0,242.86,1970-01-01 00:00:00.000002019,57900000.0,http://www.linkedin.com/company/replicate,replicate.com,55.0
+CodeRabbit,Walnut Creek,CA,35.0,8.0,325.0,1970-01-01 00:00:00.000002023,19600000.0,http://www.linkedin.com/company/coderabbitai,coderabbit.ai,55.0
+NachoNacho,San Francisco,CA,24.0,19.0,27.78,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/nachonacho,nachonacho.com,55.0
+Middleware (YC W23),San Francisco,CA,58.0,49.0,17.02,1970-01-01 00:00:00.000002022,7000000.0,http://www.linkedin.com/company/middleware-labs,middleware.io,55.0
+Pathr.ai,Mountain View,CA,26.0,29.0,-10.71,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/pathr,pathr.ai,55.0
+Flike,San Francisco,CA,2.0,13.0,-83.33,,0.0,http://www.linkedin.com/company/goflike,flike.app,
+Trustero,Palo Alto,CA,21.0,13.0,66.67,1970-01-01 00:00:00.000002020,18300000.0,http://www.linkedin.com/company/trustero,trustero.com,55.0
+Trendsi,San Francisco,CA,64.0,59.0,8.93,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/trendsi,trendsi.com,55.0
+Hang,Los Angeles,CA,49.0,40.0,23.68,1970-01-01 00:00:00.000002021,20100000.0,http://www.linkedin.com/company/hang-nft,hang.xyz,55.0
+FirstWatch,Carlsbad,CA,216.0,125.0,72.36,1970-01-01 00:00:00.000002002,0.0,http://www.linkedin.com/company/firstwatch,firstwatch.net,55.0
+Growthsayer,San Diego,CA,2.0,3.0,-33.33,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/growthsayer,growthsayer.com,55.0
+andAI,San Francisco,CA,10.0,2.0,400.0,1970-01-01 00:00:00.000002024,0.0,http://www.linkedin.com/company/and-ai,tryandai.com,55.0
+Avataros,Los Angeles,CA,6.0,5.0,20.0,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/avataros,avataros.com,55.0
+ScrumLaunch,Los Angeles,CA,116.0,125.0,-7.32,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/scrumlaunch,scrumlaunch.com,55.0
+CineBlock,Irvine,CA,3.0,3.0,0.0,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/cineblock,cineblock.com,55.0
+Dynaboard,San Francisco,CA,5.0,17.0,-68.75,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/dynaboard,dynaboard.com,55.0
+APIwiz,Pleasanton,CA,28.0,34.0,-15.63,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/apiwizio,apiwiz.io,55.0
+Quilt,Redwood City,CA,81.0,58.0,40.0,1970-01-01 00:00:00.000002022,42000000.0,http://www.linkedin.com/company/quilthome,quilt.com,55.0
+Mentum,San Francisco,CA,15.0,8.0,75.0,,0.0,http://www.linkedin.com/company/mentum-inc,getmentum.com,
+Ubicloud,San Francisco,CA,17.0,11.0,54.55,1970-01-01 00:00:00.000002023,16500000.0,http://www.linkedin.com/company/ubicloud,ubicloud.com,55.0
+GoodOnes,San Francisco,CA,15.0,2.0,600.0,1970-01-01 00:00:00.000001982,0.0,http://www.linkedin.com/company/goodonesapp,goodones.app,55.0
+Hospitable.com,San Francisco,CA,93.0,53.0,75.0,1970-01-01 00:00:00.000002016,0.0,http://www.linkedin.com/company/hospitable,hospitable.com,55.0
+WethosAI,Newport Beach,CA,22.0,12.0,83.33,1970-01-01 00:00:00.000002023,7500000.0,http://www.linkedin.com/company/wethos-ai,wethos.ai,55.0
+Neon,San Francisco,CA,18.0,15.0,20.0,1970-01-01 00:00:00.000002022,14000000.0,http://www.linkedin.com/company/neonpay,neonpay.com,55.0
+Calfus,Pleasanton,CA,141.0,117.0,20.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/calfusinc,calfus.com,55.0
+Pitney Bowes,San Diego,CA,,,21.88,,0.0,http://www.linkedin.com/company/pitney-bowes-service-inc,pitneybowes.com,
+Tenyx,Mountain View,CA,22.0,17.0,31.25,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/tenyx,tenyx.com,55.0
+Sphere,San Francisco,CA,12.0,22.0,-47.62,,0.0,http://www.linkedin.com/school/getsphere,getsphere.com,
+Bluesky Data,Menlo Park,CA,48.0,60.0,-19.3,1970-01-01 00:00:00.000002022,8800000.0,http://www.linkedin.com/company/bluesky-data,getbluesky.io,55.0
+Operative Intelligence,Los Angeles,CA,24.0,20.0,21.05,1970-01-01 00:00:00.000002019,3730000.0,http://www.linkedin.com/company/operative-intelligence,operativeintelligence.com,55.0
+Openlayer,San Francisco,CA,16.0,6.0,150.0,1970-01-01 00:00:00.000002021,19300000.0,http://www.linkedin.com/company/openlayerco,openlayer.com,55.0
+Fiery,Fremont,CA,310.0,258.0,20.16,1970-01-01 00:00:00.000001989,0.0,http://www.linkedin.com/company/fieryprint,fiery.com,55.0
+SuprSend,San Francisco,CA,15.0,14.0,7.69,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/suprsend,suprsend.com,55.0
+Dagster Labs,San Francisco,CA,87.0,68.0,26.87,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/dagsterlabs,dagsterlabs.com,55.0
+Niantic,San Francisco,CA,1047.0,954.0,9.68,1970-01-01 00:00:00.000002011,780000000.0,http://www.linkedin.com/company/niantic,nianticlabs.com,55.0
+P0 Security,San Francisco,CA,20.0,11.0,81.82,1970-01-01 00:00:00.000002022,20000000.0,http://www.linkedin.com/company/p0-security,p0.dev,55.0
+Prelay,San Francisco,CA,13.0,16.0,-18.75,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/prelayhq,prelay.com,55.0
+Foxglove,San Francisco,CA,44.0,33.0,35.48,,18700000.0,http://www.linkedin.com/company/foxglovedev,foxglove.dev,
+RivetAI,Culver City,CA,4.0,5.0,-20.0,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/rivetai,rivetai.com,55.0
+Payroll Integrations,San Diego,CA,34.0,27.0,26.92,,20400000.0,http://www.linkedin.com/company/payroll-integrations,payrollintegrations.com,
+Lekko,San Francisco,CA,3.0,6.0,-50.0,,0.0,http://www.linkedin.com/company/lekkodev,lekko.com,
+Teamraderie,Los Altos,CA,24.0,25.0,-4.17,1970-01-01 00:00:00.000002020,16200000.0,http://www.linkedin.com/company/teamraderie,teamraderie.com,55.0
+Diffine,San Diego,CA,37.0,30.0,24.14,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/diffine,diffine.com,55.0
+Bump,Los Angeles,CA,23.0,23.0,0.0,1970-01-01 00:00:00.000002022,14000000.0,http://www.linkedin.com/company/bumpglobal,usebump.com,55.0
+Trebellar,San Francisco,CA,17.0,18.0,-5.88,1970-01-01 00:00:00.000002022,3500000.0,http://www.linkedin.com/company/trebellar,trebellar.com,55.0
+TakeProfit,San Francisco,CA,37.0,40.0,-7.69,1970-01-01 00:00:00.000002021,9700000.0,http://www.linkedin.com/company/takeprofit,takeprofit.com,55.0
+Unum ID,San Francisco,CA,16.0,15.0,7.14,,0.0,http://www.linkedin.com/company/unum-id,unumid.co,
+Tech Holding,Los Angeles,CA,208.0,124.0,67.21,1970-01-01 00:00:00.000002016,0.0,http://www.linkedin.com/company/techholding,techholding.co,55.0
+Zuum App,Irvine,CA,82.0,80.0,2.56,1970-01-01 00:00:00.000002016,0.0,http://www.linkedin.com/company/zuumapp,zuumapp.com,55.0
+Graft,San Francisco,CA,34.0,22.0,52.38,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/graftinc,graft.com,55.0
+Antimatter,San Francisco,CA,22.0,14.0,61.54,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/antimattertechnologies,antimatter.io,55.0
+Andolasoft,San Jose,CA,153.0,140.0,9.29,1970-01-01 00:00:00.000002009,0.0,http://www.linkedin.com/company/andolasoft-inc,andolasoft.com,55.0
+Factor Hardware,San Francisco,CA,22.0,16.0,31.25,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/factorhardware,factorhardware.com,55.0
+LINK,Los Angeles,CA,71.0,43.0,66.67,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/linktoany,linktoany.com,55.0
+Plateron,San Ramon,CA,58.0,42.0,39.02,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/plateron,plateron.com,55.0
+Redis Labs,Mountain View,CA,1625.0,1094.0,48.56,1970-01-01 00:00:00.000002011,356800000.0,http://www.linkedin.com/company/redis-labs-inc,redislabs.com,55.0
+AccuChain,San Jose,CA,2.0,5.0,-60.0,1970-01-01 00:00:00.000002019,450900000.0,http://www.linkedin.com/company/accuchain,accuchain.com,55.0
+Paper.xyz,San Francisco,CA,6.0,17.0,-62.5,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/paperxyz,paper.xyz,55.0
+Coaching.com,San Diego,CA,288.0,238.0,21.03,1970-01-01 00:00:00.000002012,0.0,http://www.linkedin.com/company/coachingdotcom,wbecs.learnworlds.com/course/breakthrough-coaching,55.0
+Platformatic,San Francisco,CA,17.0,12.0,45.45,1970-01-01 00:00:00.000002022,7800000.0,http://www.linkedin.com/company/platformatic,platformatic.dev,55.0
+CMX1 (ComplianceMetrix),La Jolla,CA,83.0,77.0,8.0,1970-01-01 00:00:00.000002009,0.0,http://www.linkedin.com/company/compliancemetrix,cmx1.com,55.0
+Fuzzland,Palo Alto,CA,11.0,9.0,22.22,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/hackthedefi,fuzz.land,55.0
+Fractalis,San Francisco,CA,4.0,4.0,0.0,1970-01-01 00:00:00.000002015,0.0,http://www.linkedin.com/company/fractalis-inc,fractal.is,55.0
+Journify,San Francisco,CA,14.0,11.0,27.27,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/journifyio,journify.io/book-a-call,55.0
+Digma,Sunnyvale,CA,14.0,16.0,-13.33,1970-01-01 00:00:00.000002022,6510000.0,http://www.linkedin.com/company/digma-ai,digma.ai,55.0
+ThoughtSphere,Santa Clara,CA,38.0,27.0,38.46,1970-01-01 00:00:00.000002015,14000000.0,http://www.linkedin.com/company/thoughtsphere-inc,thoughtsphere.com,55.0
+Rizort,San Francisco,CA,4.0,3.0,33.33,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/rizort,rizort.com,55.0
+Northbeam,San Francisco,CA,65.0,58.0,12.73,1970-01-01 00:00:00.000002019,17600000.0,http://www.linkedin.com/company/northbeam,northbeam.io,55.0
+Channel99,San Francisco,CA,19.0,13.0,50.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/channel-99-inc,channel99.com,55.0
+Martian,San Francisco,CA,26.0,14.0,78.57,1970-01-01 00:00:00.000002022,9000000.0,http://www.linkedin.com/company/withmartian,withmartian.com,55.0
+NocoDB,San Francisco,CA,14.0,14.0,0.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/nocodb,nocodb.com,55.0
+Airmart,Redwood City,CA,27.0,29.0,-7.14,1970-01-01 00:00:00.000002018,8170000.0,http://www.linkedin.com/company/goairmart,goairmart.com,55.0
+iQuantum,Palo Alto,CA,42.0,28.0,48.15,1970-01-01 00:00:00.000002014,0.0,http://www.linkedin.com/company/iquantumai,iquantum.ai,55.0
+Reejig,San Francisco,CA,42.0,71.0,-41.43,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/reejig,reejig.com,55.0
+Amplemarket,San Francisco,CA,104.0,84.0,24.39,1970-01-01 00:00:00.000002016,0.0,http://www.linkedin.com/company/amplemarket,amplemarket.com,55.0
+Fast Break Labs,San Francisco,CA,3.0,17.0,-81.25,,0.0,http://www.linkedin.com/company/fast-break-labs,fastbreaklabs.com,
+Wingman,Fremont,CA,12.0,16.0,-25.0,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/wingmanforsales,trywingman.com,55.0
+Zapier,San Francisco,CA,1210.0,1136.0,6.47,1970-01-01 00:00:00.000002011,1400000.0,http://www.linkedin.com/company/zapier,zapier.com,55.0
+Bionic,Palo Alto,CA,162.0,132.0,22.22,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/bionicai,bionic.ai,55.0
+Serenity EHS,San Diego,CA,123.0,110.0,11.43,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/serenityehs,serenityehs.com,55.0
+Class Companion,San Francisco,CA,12.0,9.0,22.22,,0.0,http://www.linkedin.com/company/classcompanion,classcompanion.com,
+Eva,San Diego,CA,626.0,519.0,20.63,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/eva-commerce-inc,linktr.ee/eva.guru,55.0
+Ensis AI,San Francisco,CA,8.0,9.0,-11.11,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/ensis-ai,ensis.ai,55.0
+Orkes,Cupertino,CA,64.0,45.0,41.86,1970-01-01 00:00:00.000002020,29300000.0,http://www.linkedin.com/company/orkes-inc,orkes.io,55.0
+Kraftful,San Francisco,CA,18.0,16.0,13.33,,0.0,http://www.linkedin.com/company/kraftful,kraftful.com,
+Revvable,San Francisco,CA,8.0,17.0,-50.0,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/revvable,revvable.com,55.0
+Endor Labs,Palo Alto,CA,149.0,93.0,59.55,1970-01-01 00:00:00.000002021,5000000.0,http://www.linkedin.com/company/endorlabs,endor.ai,55.0
+Thena,Palo Alto,CA,37.0,45.0,-18.6,1970-01-01 00:00:00.000002022,7160000.0,http://www.linkedin.com/company/thena-platform,thena.ai,55.0
+Hatica,San Francisco,CA,29.0,36.0,-17.65,1970-01-01 00:00:00.000002019,6420000.0,http://www.linkedin.com/company/hatica,hatica.io,55.0
+buck.ai,Berkeley,CA,14.0,12.0,18.18,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/buck-ai,buck.ai,55.0
+Candle,Newport Beach,CA,4.0,3.0,33.33,1970-01-01 00:00:00.000002023,0.0,http://www.linkedin.com/company/projectcandle,projectcandle.ai,55.0
+CNaught,San Francisco,CA,11.0,6.0,83.33,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/cnaught,cnaught.com,55.0
+Instock.com,San Carlos,CA,49.0,44.0,11.63,,7240000.0,http://www.linkedin.com/company/instockcom,instock.com,
+ZIR AI,Cupertino,CA,78.0,58.0,34.55,,0.0,http://www.linkedin.com/company/vectara,vectara.com,
+4CRisk.ai,San Francisco,CA,44.0,41.0,7.69,1970-01-01 00:00:00.000002019,8000000.0,http://www.linkedin.com/company/4crisk,4crisk.ai,55.0
+Amplifier Security,San Francisco,CA,16.0,13.0,23.08,1970-01-01 00:00:00.000002023,8800000.0,http://www.linkedin.com/company/amplifier-security,amplifiersecurity.com,55.0
+Airvine,Santa Clara,CA,29.0,26.0,12.0,1970-01-01 00:00:00.000002017,26600000.0,http://www.linkedin.com/company/airvine,airvine.com,55.0
+Beam,San Francisco,CA,15.0,7.0,100.0,,0.0,http://www.linkedin.com/company/usebeam,usebeam.co,
+Check Point Software Technologies,San Carlos,CA,8221.0,7762.0,5.92,1970-01-01 00:00:00.000001993,0.0,http://www.linkedin.com/company/check-point-software-technologies,protego.io,55.0
+KinderSystems,Escondido,CA,98.0,94.0,4.35,,0.0,http://www.linkedin.com/company/kindersystems,kindersystems.com,
+Postman,San Francisco,CA,2202.0,2073.0,6.23,1970-01-01 00:00:00.000002014,433000000.0,http://www.linkedin.com/company/postman-platform,getpostman.com,55.0
+FERMÀT,San Francisco,CA,91.0,50.0,81.25,,0.0,http://www.linkedin.com/company/fermat-commerce,fermatcommerce.com,
+ESGgo,Los Altos,CA,21.0,19.0,11.11,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/esggo,esggo.com,55.0
+Bardeen,San Francisco,CA,43.0,45.0,-4.65,1970-01-01 00:00:00.000002020,21800000.0,http://www.linkedin.com/company/bardeen,bardeen.ai,55.0
+Metadome (formerly Adloid),San Mateo,CA,84.0,66.0,26.15,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/metadome,metadome.ai,55.0
+Makelog,San Francisco,CA,4.0,6.0,-33.33,,0.0,http://www.linkedin.com/company/makelog,makelog.com,
+Kaya,San Francisco,CA,22.0,25.0,-12.5,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/kaya-co,joinkaya.com,55.0
+SkillCat,San Francisco,CA,61.0,58.0,5.26,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/skillcat,skillcatapp.com,55.0
+PassRight - U.S. Visa,San Francisco,CA,14.0,1.0,1300.0,,0.0,http://www.linkedin.com/company/passright,passright.com,
+Svix,San Francisco,CA,16.0,7.0,114.29,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/svix,svix.com,55.0
+Keeta,Santa Monica,CA,15.0,18.0,-17.65,1970-01-01 00:00:00.000002022,31700000.0,http://www.linkedin.com/company/keetapay,keeta.com,55.0
+KeepTruckin,San Francisco,CA,4131.0,4140.0,-0.23,1970-01-01 00:00:00.000002013,567300000.0,http://www.linkedin.com/company/keep-truckin,keeptruckin.com,55.0
+Uplimit,San Mateo,CA,69.0,60.0,15.25,1970-01-01 00:00:00.000002021,19500000.0,http://www.linkedin.com/company/uplimit-education,uplimit.com,55.0
+Pavilion,San Francisco,CA,56.0,44.0,27.91,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/withpavilion,withpavilion.com,55.0
+Tingono (Stealth),San Francisco,CA,8.0,14.0,-38.46,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/tingono,tingono.com,55.0
+Smile ID,Portola Valley,CA,66.0,64.0,3.17,1970-01-01 00:00:00.000002017,31000000.0,http://www.linkedin.com/company/usesmileid,usesmileid.com,55.0
+Supabase,San Francisco,Ca,135.0,90.0,50.62,1970-01-01 00:00:00.000002020,398000000.0,http://www.linkedin.com/company/supabase,supabase.com,55.0
+Luma AI,San Francisco,CA,166.0,55.0,202.08,1970-01-01 00:00:00.000002021,114000000.0,http://www.linkedin.com/company/luma-ai,lumalabs.ai,55.0
+Cortex,San Francisco,CA,138.0,96.0,44.33,1970-01-01 00:00:00.000002019,113000000.0,http://www.linkedin.com/company/cortexapp,cortex.io,55.0
+Flip,Los Angeles,CA,309.0,271.0,13.93,1970-01-01 00:00:00.000002019,306000000.0,http://www.linkedin.com/company/joinflip,flip.shop,55.0
+Watershed,San Francisco,CA,580.0,432.0,34.12,1970-01-01 00:00:00.000002019,210000000.0,http://www.linkedin.com/company/watershedclimate,watershed.com,55.0
+Omni,San Francisco,CA,551.0,370.0,48.94,1970-01-01 00:00:00.000002022,116.0,http://www.linkedin.com/company/exploreomni,exploreomni.com,55.0
+Polyhedra Network,San Francisco,CA,23.0,17.0,41.18,,45000000.0,http://www.linkedin.com/company/polyhedrazk,polyhedra.network,
+Iteris,Santa Ana,CA,653.0,646.0,0.96,1970-01-01 00:00:00.000002004,6500000.0,http://www.linkedin.com/company/iteris-inc-,iteris.com,55.0
+Semgrep,San Francisco,CA,187.0,161.0,16.22,1970-01-01 00:00:00.000002017,0.0,http://www.linkedin.com/company/semgrep,semgrep.dev,55.0
+Agency,San Francisco,CA,426.0,59.0,629.55,1970-01-01 00:00:00.000002023,500000.0,http://www.linkedin.com/company/aistaff,agen.cy,55.0
+Sanas,Palo Alto,CA,282.0,158.0,79.05,,116000000.0,http://www.linkedin.com/company/sanastech,sanas.ai,
+Albert Invent,Bay Area,CA,157.0,96.0,62.5,1970-01-01 00:00:00.000002022,49200000.0,http://www.linkedin.com/company/albert-invent,albertinvent.com,55.0
+Ema Unlimited,San Francisco,CA,121.0,38.0,225.0,1970-01-01 00:00:00.000002023,75000000.0,http://www.linkedin.com/company/ema-unlimited,ema.co,55.0
+Spait Infotech,San Francisco,CA,319.0,66.0,382.61,1970-01-01 00:00:00.000002010,0.0,http://www.linkedin.com/company/spait-infotech2024,spaitinfotech.com,55.0
+Enfabrica,Mountain View,CA,155.0,125.0,24.35,1970-01-01 00:00:00.000002019,0.0,http://www.linkedin.com/company/acebinfra1,enfabrica.net,55.0
+Tessell,San Francisco,CA,164.0,138.0,18.7,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/tessell-inc,tessell.com,55.0
+Topsort,San Francisco,CA,107.0,63.0,69.81,1970-01-01 00:00:00.000002021,43200000.0,http://www.linkedin.com/company/topsort,topsort.com,55.0
+Auxia,Palo Alto,CA,47.0,18.0,152.94,,29000000.0,http://www.linkedin.com/company/auxia-io,auxia.io,
+Metronome,San Francisco,CA,135.0,100.0,34.69,1970-01-01 00:00:00.000002020,130000000.0,http://www.linkedin.com/company/getmetronome,metronome.com,55.0
+xtype.io,Covina,CA,48.0,33.0,46.88,1970-01-01 00:00:00.000002020,31800000.0,http://www.linkedin.com/company/xtype,xtype.io,55.0
+SDF Labs,Los Angeles,CA,142.0,39.0,265.79,,0.0,http://www.linkedin.com/company/sdflabs,sdf.com,
+Zocks | AI for Advisors,San Francisco,CA,43.0,21.0,100.0,1970-01-01 00:00:00.000002022,19300000.0,http://www.linkedin.com/company/zocks,zocks.io,55.0
+Phantom,San Francisco,CA,256.0,155.0,64.86,1970-01-01 00:00:00.000002021,268000000.0,http://www.linkedin.com/company/phantomwallet,phantom.app,55.0
+KittyCAD,San Francisco,CA,140.0,58.0,141.82,1970-01-01 00:00:00.000002021,5120000.0,http://www.linkedin.com/company/kittycad,kittycad.io,55.0
+Sift,El Segundo,CA,39.0,18.0,111.11,1970-01-01 00:00:00.000002022,25000000.0,http://www.linkedin.com/company/sift-stack,siftstack.com,55.0
+Willo,San Francisco,CA,56.0,43.0,29.27,1970-01-01 00:00:00.000002018,37200000.0,http://www.linkedin.com/company/willovideo,willo.video,55.0
+Nibiru Chain,Palo Alto,CA,37.0,30.0,20.69,1970-01-01 00:00:00.000002022,20500000.0,http://www.linkedin.com/company/nibiruchain,nibiru.fi,55.0
+Tavus,San Francisco,CA,41.0,34.0,21.88,1970-01-01 00:00:00.000002020,28200000.0,http://www.linkedin.com/company/tavus-io,tavus.io,55.0
+Alvys,Solana Beach,CA,153.0,116.0,31.58,,26800000.0,http://www.linkedin.com/company/alvysinc,alvys.com,
+Rypplzz,Los Angeles,CA,19.0,17.0,12.5,1970-01-01 00:00:00.000002016,7960000.0,http://www.linkedin.com/company/rypplzz,rypplzz.com,55.0
+SGNL,Palo Alto,CA,48.0,43.0,11.9,1970-01-01 00:00:00.000002021,42000000.0,http://www.linkedin.com/company/sgnl-ai,sgnl.ai,55.0
+Aampe,San Francisco,CA,37.0,20.0,84.21,1970-01-01 00:00:00.000002020,27300000.0,http://www.linkedin.com/company/aampe,aampe.com,55.0
+interface.ai,Walnut,CA,226.0,180.0,26.14,1970-01-01 00:00:00.000002019,30000000.0,http://www.linkedin.com/company/interface-ai,interface.ai,55.0
+Planera,Pleasanton,CA,40.0,22.0,80.95,1970-01-01 00:00:00.000002021,18700000.0,http://www.linkedin.com/company/planera-inc,planera.io,55.0
+Boon,San Mateo,CA,42.0,16.0,156.25,1970-01-01 00:00:00.000002023,20500000.0,http://www.linkedin.com/company/boon-technologies-inc,getboon.ai,55.0
+Numeric,Newbury,CA,53.0,21.0,147.62,,38000000.0,http://www.linkedin.com/company/numeric-io,numeric.io,
+Field Materials,San Jose,CA,29.0,18.0,64.71,1970-01-01 00:00:00.000002022,18600000.0,http://www.linkedin.com/company/fieldmaterials,fieldmaterials.com,55.0
+Guidde,Belmont,CA,48.0,30.0,62.07,1970-01-01 00:00:00.000002020,30600000.0,http://www.linkedin.com/company/guidde,guidde.com,55.0
+Clerk Chat,San Francisco,CA,56.0,23.0,139.13,1970-01-01 00:00:00.000002022,7000000.0,http://www.linkedin.com/company/clerk-chat,clerk.chat,55.0
+Factory,San Francisco,CA,632.0,285.0,122.22,1970-01-01 00:00:00.000002023,150000.0,http://www.linkedin.com/company/factory-hq,factory.ai,55.0
+Speakeasy,San Francisco,CA,46.0,19.0,144.44,1970-01-01 00:00:00.000002022,37500000.0,http://www.linkedin.com/company/speakeasyapi,speakeasyapi.dev,55.0
+Together,Menlo Park,CA,193.0,76.0,155.56,,,http://www.linkedin.com/company/togethercomputer,together.xyz,
+Technosylva,La Jolla,CA,140.0,93.0,49.44,1970-01-01 00:00:00.000001997,84200000.0,http://www.linkedin.com/company/technosylva,technosylva.com,55.0
+ChangeEngine,San Francisco,CA,224.0,122.0,83.33,1970-01-01 00:00:00.000002021,15500000.0,http://www.linkedin.com/company/changeengine,changeengine.com,55.0
+Zoo,Los Angeles,CA,133.0,54.0,145.28,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/zoodotdev,zoo.dev,55.0
+Savant Labs,San Francisco,CA,50.0,35.0,45.45,1970-01-01 00:00:00.000002021,28800000.0,http://www.linkedin.com/company/savant-labs,savantlabs.io,55.0
+ORO Labs,Palo Alto,CA,159.0,112.0,41.12,1970-01-01 00:00:00.000002020,82000000.0,http://www.linkedin.com/company/procurewithoro,orolabs.ai,55.0
+Admin By Request,San Francisco,CA,104.0,43.0,142.86,,0.0,http://www.linkedin.com/company/adminbyrequest,adminbyrequest.com/en/freeplandownload,
+Gan.ai,Mountain View,CA,114.0,67.0,70.31,1970-01-01 00:00:00.000002021,0.0,http://www.linkedin.com/company/gan-ai,gan.ai,55.0
+Ansa,San Francisco,CA,31.0,23.0,30.43,1970-01-01 00:00:00.000002022,19400000.0,http://www.linkedin.com/company/getansa,ansa.dev,55.0
+Nuon,Los Angeles,CA,21.0,16.0,31.25,1970-01-01 00:00:00.000002021,16500000.0,http://www.linkedin.com/company/nuonco,nuon.co,55.0
+ToolJet,San Francisco,CA,58.0,45.0,27.91,1970-01-01 00:00:00.000002021,6160000.0,http://www.linkedin.com/company/tooljet,tooljet.com,55.0
+Elly Analytics,San Francisco,CA,38.0,31.0,23.33,1970-01-01 00:00:00.000002019,2000000.0,http://www.linkedin.com/company/elly-analytics,ellyanalytics.com,55.0
+Momos,San Diego,CA,146.0,93.0,57.14,1970-01-01 00:00:00.000002021,16500000.0,http://www.linkedin.com/company/momos-com,momos.com,55.0
+Arrows,Los Angeles,CA,19.0,16.0,20.0,1970-01-01 00:00:00.000002018,2800000.0,http://www.linkedin.com/company/arrows-to,arrows.to,55.0
+FedML,Sunnyvale,CA,21.0,18.0,17.65,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/fedml,fedml.ai,55.0
+Virtualitics,Pasadena,CA,31.0,27.0,15.38,1970-01-01 00:00:00.000002016,101000000.0,http://www.linkedin.com/company/virtualitics,virtualitics.com,55.0
+Reflex,San Francisco,CA,32.0,16.0,93.75,1970-01-01 00:00:00.000002023,,http://www.linkedin.com/company/reflex-dev,reflex.dev,55.0
+Valdera,San Francisco,CA,30.0,27.0,11.54,,20500000.0,http://www.linkedin.com/company/valdera,valdera.com,
+Vultron,,CA,31.0,16.0,87.5,,0.0,http://www.linkedin.com/company/vultron,vultron.ai,
+Movius,Cupertino,CA,305.0,269.0,13.28,,0.0,http://www.linkedin.com/company/movius-ai,movius.ai,
+Lumos,Silicon Valley,CA,156.0,106.0,47.52,1970-01-01 00:00:00.000002020,65300000.0,http://www.linkedin.com/company/lumosidentity,lumos.com,55.0
+Kindo,Los Angeles,CA,46.0,24.0,87.5,1970-01-01 00:00:00.000002022,27600000.0,http://www.linkedin.com/company/kindo-ai,kindo.ai,55.0
+PuppyGraph,Santa Clara,CA,18.0,17.0,5.88,1970-01-01 00:00:00.000002023,5000000.0,http://www.linkedin.com/company/puppygraph,puppygraph.com,55.0
+Caramel,Los Angeles,CA,119.0,82.0,46.25,,40400000.0,http://www.linkedin.com/company/drivecaramel,drivecaramel.com,
+Exa,San Francisco,CA,58.0,31.0,90.0,,25700000.0,http://www.linkedin.com/company/exa-ai,exa.ai,
+TeamBridge,San Francisco,CA,58.0,31.0,90.0,1970-01-01 00:00:00.000002017,41100000.0,http://www.linkedin.com/company/team-bridge,teambridge.com,55.0
+DuploCloud,San Jose,CA,149.0,105.0,42.0,1970-01-01 00:00:00.000002018,49200000.0,http://www.linkedin.com/company/duplocloud,duplocloud.com,55.0
+Stan,Los Angeles,CA,134.0,63.0,111.29,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/stanwithme,stan.store,55.0
+Squint,San Jose,CA,57.0,32.0,80.65,1970-01-01 00:00:00.000002021,19000000.0,http://www.linkedin.com/company/squintai,squint.ai,55.0
+Remofirst,San Francisco,CA,128.0,95.0,35.56,1970-01-01 00:00:00.000002021,39300000.0,http://www.linkedin.com/company/remofirst,remofirst.com,55.0
+Opus1.io,Palo Alto,CA,28.0,16.0,68.75,1970-01-01 00:00:00.000002018,0.0,http://www.linkedin.com/company/opus1-io,opus1.io,55.0
+ACMUCR,Riverside,CA,113.0,55.0,105.56,,0.0,http://www.linkedin.com/company/acm-ucr,acm.cs.ucr.edu,
+Fondo,San Francisco,CA,103.0,78.0,32.43,,0.0,http://www.linkedin.com/company/fondohq,tryfondo.com,
+Superfiliate,Venice,CA,58.0,34.0,71.88,1970-01-01 00:00:00.000002021,8530000.0,http://www.linkedin.com/company/superfiliate,superfiliate.com,55.0
+Paragon,Los Angeles,CA,115.0,91.0,26.97,,22000000.0,http://www.linkedin.com/company/useparagon,useparagon.com,
+Spec,San Jose,CA,147.0,118.0,25.0,1970-01-01 00:00:00.000002020,29700000.0,http://www.linkedin.com/company/specprotected,specprotected.com,55.0
+Coalesce.io,San Francisco,CA,117.0,95.0,23.33,1970-01-01 00:00:00.000002020,81900000.0,http://www.linkedin.com/company/coalesceio,coalesce.io,55.0
+Swoogo,Los Angeles,CA,144.0,120.0,19.49,1970-01-01 00:00:00.000002015,23600000.0,http://www.linkedin.com/company/swoogo,swoogo.events,55.0
+Polycam,San Francisco,CA,48.0,31.0,56.67,1970-01-01 00:00:00.000002020,22100000.0,http://www.linkedin.com/company/polycam,poly.cam,55.0
+Chalk,San Francisco,CA,90.0,48.0,87.5,,10000000.0,http://www.linkedin.com/company/chalkai,chalk.ai,
+Breezit,Palo Alto,CA,26.0,17.0,56.25,1970-01-01 00:00:00.000002020,2830000.0,http://www.linkedin.com/company/breezit-platform,breezit.com,55.0
+Modular AI,Palo Alto,CA,275.0,226.0,21.86,1970-01-01 00:00:00.000002022,130000000.0,http://www.linkedin.com/company/modular-ai,modular.com,55.0
+Weights and Biases,San Francisco,CA,319.0,258.0,23.72,1970-01-01 00:00:00.000002017,250000000.0,http://www.linkedin.com/company/weights-biases,wandb.ai,55.0
+Weights and Biases,San Francisco,CA,318.0,258.0,23.32,,0.0,http://www.linkedin.com/company/wandb,wandb.ai,
+Vividly (formerly Cresicor),San Francisco,CA,129.0,111.0,15.6,,63900000.0,http://www.linkedin.com/company/govividly,govividly.com,
+Gyaan,San Francisco,CA,49.0,33.0,50.0,1970-01-01 00:00:00.000002022,0.0,http://www.linkedin.com/company/gyaanai,gyaan.ai,55.0
+Conveyor,San Francisco,CA,50.0,34.0,48.48,1970-01-01 00:00:00.000002021,19000000.0,http://www.linkedin.com/company/conveyorhq,conveyor.com,55.0
+Kira Learning,Palo Alto,CA,55.0,38.0,44.44,,22500000.0,http://www.linkedin.com/company/kira-learning,kira-learning.com,
+Adastec Corp.,San Francisco,CA,84.0,74.0,12.33,1970-01-01 00:00:00.000002018,10100000.0,http://www.linkedin.com/company/adastec,adastec.com,55.0
+BlueFlag Security,Sunnyvale,CA,23.0,16.0,43.75,1970-01-01 00:00:00.000002022,11500000.0,http://www.linkedin.com/company/blueflag-security,blueflagsecurity.com,55.0
+Scrut Automation,Palo Alto,CA,207.0,182.0,14.04,1970-01-01 00:00:00.000002022,21000000.0,http://www.linkedin.com/company/scrut-automation,scrut.io,55.0
+CYGNVS,Los Altos,CA,114.0,104.0,10.1,,0.0,http://www.linkedin.com/company/cygnvs,cygnvs.com,
+Humand,San Francisco,CA,277.0,150.0,85.03,1970-01-01 00:00:00.000002020,0.0,http://www.linkedin.com/company/humand-co,humand.co,55.0
+Curri,Los Angeles,CA,168.0,154.0,9.27,1970-01-01 00:00:00.000002018,50800000.0,http://www.linkedin.com/company/curri,curri.com,55.0
+Mermaid Chart,San Francisco,CA,23.0,17.0,35.29,1970-01-01 00:00:00.000002022,7500000.0,http://www.linkedin.com/company/mermaid-chart,mermaidchart.com,55.0
+Darwinium,San Francisco,CA,46.0,34.0,37.5,,28500000.0,http://www.linkedin.com/company/darwinium,darwinium.com,
+Antaris,Los Altos,CA,24.0,18.0,35.29,1970-01-01 00:00:00.000002021,14800000.0,http://www.linkedin.com/company/antaris-space,antaris.space,55.0
+Optery,San Francisco,CA,46.0,35.0,33.33,1970-01-01 00:00:00.000002020,3200000.0,http://www.linkedin.com/company/optery,optery.com,55.0
+Cosine,San Francisco,CA,21.0,16.0,31.25,,4000000.0,http://www.linkedin.com/company/cosine-ai,cosine.sh,
+Zingly.ai,San Francisco,CA,21.0,16.0,31.25,1970-01-01 00:00:00.000002021,18400000.0,http://www.linkedin.com/company/zingly-ai,zingly.ai,55.0
+VESSL AI,San Francisco,CA,38.0,29.0,32.14,1970-01-01 00:00:00.000002020,16400000.0,http://www.linkedin.com/company/vesslai,vessl.ai,55.0
+Gradient,San Francisco,CA,38.0,29.0,32.14,1970-01-01 00:00:00.000002022,89400000.0,http://www.linkedin.com/company/gradient-ai-platform,gradient.ai,55.0
+Lumana,Los Gatos,CA,47.0,36.0,31.43,1970-01-01 00:00:00.000002021,24000000.0,http://www.linkedin.com/company/lumana-ai,lumana.ai,55.0
+Harbour,San Francisco,CA,35.0,27.0,30.77,1970-01-01 00:00:00.000002019,20200000.0,http://www.linkedin.com/company/harbourshare,harbourshare.com,55.0
+Hauler Hero,San Diego,CA,27.0,21.0,23.81,1970-01-01 00:00:00.000002020,15100000.0,http://www.linkedin.com/company/haulerhero,haulerhero.com,55.0
+Parspec,San Francisco Bay Area,CA,54.0,42.0,29.27,1970-01-01 00:00:00.000002020,35000000.0,http://www.linkedin.com/company/parspec,parspec.io,55.0
