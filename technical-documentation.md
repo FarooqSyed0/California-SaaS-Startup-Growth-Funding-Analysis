@@ -143,7 +143,7 @@ Comprehensive data analysis project examining California SaaS startup growth pat
 
 ## Supporting Resources
 
-**Live Demo:** [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/CaliforniaSaaSStartupGrowthFundingAnalysis)
+**Live Demo:** [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis_17511350716100/CaliforniaSaaSStartupGrowthFundingAnalysis)
 
 **Portfolio:** [Notion Project Documentation](https://www.notion.so/California-SaaS-Startup-Growth-Funding-Analysis-220cff0b4864800a8fd6fa3315c357ab)
 
