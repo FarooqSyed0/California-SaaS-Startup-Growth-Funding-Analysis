@@ -35,7 +35,7 @@ Analyzed 800+ California SaaS companies to identify high-growth investment oppor
 
 ## Interactive Demo
 
-🔗 **[View Live Tableau Dashboard](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis/CaliforniaSaaSStartupGrowthFundingAnalysis)**
+🔗 **[View Live Tableau Dashboard](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis_17511350716100/CaliforniaSaaSStartupGrowthFundingAnalysis)**
 
 ---
 
