@@ -158,28 +158,28 @@
 
 ## Screenshot Reference Table
 
-| Step/Description                       | Screenshot Filename                    |
-|-----------------------------------------|----------------------------------------|
-| Business queries                        | ![businessqueries](screenshots/businessqueries.png)                    |
-| Business questions definition           | ![businessquestionsdefinition](screenshots/businessquestionsdefinition.png)        |
-| Dashboard wireframe                     | ![dashboardwireframe](screenshots/dashboardwireframe.png)                 |
-| Data quality assessment                 | ![dataqualityassessment](screenshots/dataqualityassessment.png)              |
-| Dataset source selection                | ![datasetsourceselection](screenshots/datasetsourceselection.png)             |
-| Employee growth distribution            | ![employeegrowthdistribution](screenshots/employeegrowthdistribution.png)         |
-| Excel data exploration                  | ![exceldataexploration](screenshots/exceldataexploration.png)               |
-| GitHub repo                             | ![githubrepo](screenshots/githubrepo.png)                         |
-| Growth vs Funding                       | ![growthvsfunding](screenshots/growthvsfunding.png)                    |
-| Import success                          | ![importsuccess](screenshots/importsuccess.png)                      |
-| Jupyter setup                           | ![jupytersetup](screenshots/jupytersetup.png)                       |
-| Portfolio prep                          | ![portfolioprep](screenshots/portfolioprep.png)                      |
-| PostgreSQL installation                 | ![postgresqlinstallation](screenshots/postgresqlinstallation.png)             |
-| Python cleaning analysis                | ![pythoncleaninganalysis](screenshots/pythoncleaninganalysis.png)             |
-| SQL validation                          | ![sqlvalidation](screenshots/sqlvalidation.png)                      |
-| Tableau connection                      | ![tableauconnection](screenshots/tableauconnection.png)                  |
-| Tableau dashboard                       | ![tableaudashboard](screenshots/tableaudashboard.png)                   |
-| Tableau public publish                  | ![tableaupublicpublish](screenshots/tableaupublicpublish.png)               |
-| Table schema design                     | ![tableschemadesign](screenshots/tableschemadesign.png)                  |
-| VS Code extensions list                 | ![vscode-extensions-list](screenshots/vscode-extensions-list.jpg)             |
+| Step/Description                       | Screenshot File Path                                 |
+|-----------------------------------------|-----------------------------------------------------|
+| Business queries                        | /screenshots/businessqueries.png                    |
+| Business questions definition           | /screenshots/businessquestionsdefinition.png        |
+| Dashboard wireframe                     | /screenshots/dashboardwireframe.png                 |
+| Data quality assessment                 | /screenshots/dataqualityassessment.png              |
+| Dataset source selection                | /screenshots/datasetsourceselection.png             |
+| Employee growth distribution            | /screenshots/employeegrowthdistribution.png         |
+| Excel data exploration                  | /screenshots/exceldataexploration.png               |
+| GitHub repo                             | /screenshots/githubrepo.png                         |
+| Growth vs Funding                       | /screenshots/growthvsfunding.png                    |
+| Import success                          | /screenshots/importsuccess.png                      |
+| Jupyter setup                           | /screenshots/jupytersetup.png                       |
+| Portfolio prep                          | /screenshots/portfolioprep.png                      |
+| PostgreSQL installation                 | /screenshots/postgresqlinstallation.png             |
+| Python cleaning analysis                | /screenshots/pythoncleaninganalysis.png             |
+| SQL validation                          | /screenshots/sqlvalidation.png                      |
+| Tableau connection                      | /screenshots/tableauconnection.png                  |
+| Tableau dashboard                       | /screenshots/tableaudashboard.png                   |
+| Tableau public publish                  | /screenshots/tableaupublicpublish.png               |
+| Table schema design                     | /screenshots/tableschemadesign.png                  |
+| VS Code extensions list                 | /screenshots/vscode-extensions-list.jpg             |
 
 ---
 
