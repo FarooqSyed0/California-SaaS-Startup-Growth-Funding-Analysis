@@ -93,14 +93,14 @@ Combined all key KPIs and visualizations into a single, interactive Tableau dash
 
 ## Week 4: Documentation, Publishing, and Portfolio Prep
 
-### 4.20 Document your process in GitHub README
+### 4.20 Document process in GitHub process.md
 Structured project narrative for maximum employer impact, balancing technical depth and accessibility.
 
 ### 4.21 Summarize key findings and business impact
 Created findings summary and recommendations for executive-level insights.
 
 ### 4.22 Publish dashboard to Tableau Public
-Published dashboard using public, non-personal data. Set to public access, added descriptive titles and tags.
+Published a dashboard using public, non-personal data. Set to public access, added descriptive titles and tags.
 ![Tableau Public Publish](./screenshots/tableaupublicpublish.png)
 
 ### 4.23 Prepare project for portfolio website/LinkedIn/Notion
