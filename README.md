@@ -2,8 +2,13 @@
 
 A concise data analysis project examining growth patterns and funding trends of California SaaS startups. This repository follows a structured documentation approach to streamline review:
 
-## Documentation
+A data-driven analysis of California SaaS companies’ growth and funding patterns using PostgreSQL, Python, and Tableau.
 
+## 🚀 Live Dashboard
+
+[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis_17511350716100/CaliforniaSaaSStartupGrowthFundingAnalysis?publish=yes)
+
+## Project Overview
 - [Executive Summary](executive-summary.md)  
   Rapid overview of business objectives, key results, stakeholder value, and live dashboard link.
 
