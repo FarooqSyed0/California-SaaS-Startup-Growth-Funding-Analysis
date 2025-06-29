@@ -1,8 +1,6 @@
 # California SaaS Startup Growth & Funding Analysis
 
-A concise data analysis project examining growth patterns and funding trends of California SaaS startups. This repository follows a structured documentation approach to streamline review:
-
-A data-driven analysis of California SaaS companies’ growth and funding patterns using PostgreSQL, Python, and Tableau.
+A comprehensive data-driven analysis of California SaaS companies' growth patterns and funding trends using PostgreSQL, Python, and Tableau. This repository follows a structured documentation approach with executive summary, technical documentation, and detailed methodology.
 
 ## 🚀 Live Dashboard
 
