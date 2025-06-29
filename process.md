@@ -87,7 +87,8 @@ Created KPI cards, bar chart for Top 10 Companies, histogram, scatter plot, and 
 
 ### 3.19 Combine visuals into an interactive dashboard
 Combined all key KPIs and visualizations into a single, interactive Tableau dashboard.
-![Tableau Dashboard](./screenshots/tableaudashboard.png)
+[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis_17511350716100/CaliforniaSaaSStartupGrowthFundingAnalysis?publish=yes)
+
 
 ---
 
@@ -96,7 +97,7 @@ Combined all key KPIs and visualizations into a single, interactive Tableau dash
 ### 4.20 Document process in GitHub process.md
 Structured project narrative for maximum employer impact, balancing technical depth and accessibility.
 
-### 4.21 Summarize key findings and business impact
+### 4.21 Summarize key findings and business impact          
 Created findings summary and recommendations for executive-level insights.
 
 ### 4.22 Publish dashboard to Tableau Public
