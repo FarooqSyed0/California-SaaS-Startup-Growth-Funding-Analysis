@@ -31,7 +31,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='startup_funding_analysis_cleaned' name='textscan.1a9g8490l26e0817q5gcw0ks6pk2'>
-            <connection class='textscan' directory='/Users/fs/Documents/DA/project 1/src' workgroup-auth-mode='as-is' />
+            <connection class='textscan' directory='/Users/fs/Documents/DA/California SaaS Startup Growth &amp; Funding Analysis/src' filename='startup_funding_analysis_cleaned.csv' password='' server='' workgroup-auth-mode='as-is' />
           </named-connection>
         </named-connections>
         <relation connection='textscan.1a9g8490l26e0817q5gcw0ks6pk2' name='startup_funding_analysis_cleaned.csv' table='[startup_funding_analysis_cleaned#csv]' type='table'>
@@ -225,9 +225,6 @@
       <column caption='high growth' datatype='integer' name='[Calculation_4894286917768863744]' role='measure' type='quantitative'>
         <calculation class='tableau' formula='IF [employee_growth] &gt;= { FIXED : PERCENTILE([employee_growth], 0.75) } THEN 1 ELSE 0 END' />
       </column>
-      <column aggregation='None' caption='Employee Growth (bin)' datatype='integer' name='[Employee Growth (bin)]' role='dimension' type='ordinal'>
-        <calculation class='bin' decimals='1' formula='[employee_growth]' peg='0' size='20' />
-      </column>
       <column caption='startup_funding_analysis_cleaned.csv' datatype='table' name='[__tableau_internal_object_id__].[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]' role='measure' type='quantitative' />
       <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
       <column caption='Company Age' datatype='real' name='[company_age]' role='measure' type='quantitative' />
@@ -241,8 +238,10 @@
       <column caption='Total Funding' datatype='real' name='[total_funding]' role='measure' type='quantitative' />
       <column caption='Url' datatype='string' name='[url]' role='dimension' type='nominal' />
       <column-instance column='[__tableau_internal_object_id__].[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[employee_growth]' derivation='Avg' name='[avg:employee_growth:qk]' pivot='key' type='quantitative' />
       <column-instance column='[Calculation_4894286917768863744]' derivation='Count' name='[cnt:Calculation_4894286917768863744:qk]' pivot='key' type='quantitative' />
       <column-instance column='[employee_growth]' derivation='Median' name='[med:employee_growth:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[employee_growth]' derivation='None' name='[none:employee_growth:qk]' pivot='key' type='quantitative' />
       <column-instance column='[Calculation_4894286917768863744]' derivation='Sum' name='[sum:Calculation_4894286917768863744:qk]' pivot='key' type='quantitative' />
       <column-instance column='[company_age]' derivation='Sum' name='[sum:company_age:qk]' pivot='key' type='quantitative' />
       <column-instance column='[current_employees]' derivation='Sum' name='[sum:current_employees:qk]' pivot='key' type='quantitative' />
@@ -256,7 +255,7 @@
         </drill-path>
       </drill-paths>
       <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
-        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='Data/tableau-temp/#TableauTemp_1esf3n50jzl7xm1aqi67x0vc9voy.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='' username=''>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='Data/tableau-temp/#TableauTemp_1nqh7xl0xh69yx16o03hv0pe97f5.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='06/28/2025 10:30:34 PM' username='tableau_internal_user'>
           <relation name='Extract' table='[Extract].[Extract]' type='table' />
           <metadata-records>
             <metadata-record class='column'>
@@ -272,6 +271,7 @@
               <approx-count>831</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>city</remote-name>
@@ -286,6 +286,7 @@
               <approx-count>84</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>state</remote-name>
@@ -300,6 +301,7 @@
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>current_employees</remote-name>
@@ -313,6 +315,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>247</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>last_employees</remote-name>
@@ -326,6 +329,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>216</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>employee_growth</remote-name>
@@ -339,6 +343,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>543</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>founded</remote-name>
@@ -352,6 +357,7 @@
               <aggregation>Year</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>total_funding</remote-name>
@@ -365,6 +371,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>211</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>linkedin_url</remote-name>
@@ -379,6 +386,7 @@
               <approx-count>834</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>url</remote-name>
@@ -393,6 +401,7 @@
               <approx-count>837</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RUS' />
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>company_age</remote-name>
@@ -406,6 +415,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>2</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7]</object-id>
             </metadata-record>
           </metadata-records>
         </connection>
@@ -430,7 +440,13 @@
               <bucket>&quot;[federated.1xev79e04f4nkf180bfq40kjhb9n].[__tableau_internal_object_id__].[cnt:startup_funding_analysis_cleaned.csv_0A17D315C1EE434EBED14217DE7036A7:qk]&quot;</bucket>
             </map>
             <map to='#edc948'>
+              <bucket>&quot;[federated.1xev79e04f4nkf180bfq40kjhb9n].[avg:employee_growth:qk]&quot;</bucket>
+            </map>
+            <map to='#edc948'>
               <bucket>&quot;[federated.1xev79e04f4nkf180bfq40kjhb9n].[med:employee_growth:qk]&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:employee_growth:qk]&quot;</bucket>
             </map>
             <map to='#edc948'>
               <bucket>&quot;[federated.1xev79e04f4nkf180bfq40kjhb9n].[sum:employee_growth:qk]&quot;</bucket>
@@ -478,104 +494,6 @@
   <mapsources>
     <mapsource name='Tableau' />
   </mapsources>
-  <shared-views>
-    <shared-view name='federated.1xev79e04f4nkf180bfq40kjhb9n'>
-      <datasources>
-        <datasource caption='startup_funding_analysis_cleaned' name='federated.1xev79e04f4nkf180bfq40kjhb9n' />
-      </datasources>
-      <datasource-dependencies datasource='federated.1xev79e04f4nkf180bfq40kjhb9n'>
-        <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
-        <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
-      </datasource-dependencies>
-      <filter class='categorical' column='[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:city:nk]'>
-        <groupfilter function='union' user:ui-domain='cascading' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
-          <groupfilter function='member' level='[none:city:nk]' member='%null%' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Agoura Hills&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Alamo&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Alpharetta&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Amsterdam&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Bay Area&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Belmont&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Berkeley&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Brea&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Calabasas&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;California&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Carlsbad&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;City Of Industry&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Costa Mesa&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Covina&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Culver City&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Cupertino&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Dublin&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;El Segundo&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Emeryville&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Encinitas&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Escondido&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Fremont&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Gurugram&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Huntington Beach&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Irvine&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;La Jolla&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Laguna Beach&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Lake Forest&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Long Beach&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Los Altos&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Los Angeles&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Los Gatos&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Manhattan Beach&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Menlo Park&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Mill Valley&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Milpitas&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Mona Vale&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Morgan Hill&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Mountain View&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Mumbai&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Newark&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Newbury&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Newport Beach&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Oakland&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Oceanside&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Palo Alto&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Pasadena&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Pleasant Hill&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Pleasanton&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Portola Valley&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Redwood City&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Riverside&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Carlos&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Diego&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Fracisco&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Francisco&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Francisco Bay Area&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Fransico&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Fransisco&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Jose&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Mateo&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Rafael&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;San Ramon&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Santa Ana&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Santa Barbara&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Santa Clara&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Santa Monica&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Saratoga&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Signal Hill&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Silicon Valley&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Solana Beach&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Stanford&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Sunnyvale&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Tiburon&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Torrance&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Tustin&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Venice&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Walnut&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Walnut Creek&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;Watsonville&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;West Covina&quot;' />
-          <groupfilter function='member' level='[none:city:nk]' member='&quot;West Hollywood&quot;' />
-        </groupfilter>
-      </filter>
-    </shared-view>
-  </shared-views>
   <worksheets>
     <worksheet name='Distribution of Employee Growth Rates (%)'>
       <layout-options>
@@ -592,76 +510,30 @@
             <datasource caption='startup_funding_analysis_cleaned' name='federated.1xev79e04f4nkf180bfq40kjhb9n' />
           </datasources>
           <datasource-dependencies datasource='federated.1xev79e04f4nkf180bfq40kjhb9n'>
-            <column aggregation='None' caption='Employee Growth (bin)' datatype='integer' name='[Employee Growth (bin)]' role='dimension' type='ordinal'>
-              <calculation class='bin' decimals='1' formula='[employee_growth]' peg='0' size='20' />
-            </column>
-            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
-            <column-instance column='[company_name]' derivation='Count' name='[cnt:company_name:qk]' pivot='key' type='quantitative' />
-            <column caption='Company Name' datatype='string' name='[company_name]' role='dimension' type='nominal' />
             <column caption='Employee Growth' datatype='real' name='[employee_growth]' role='measure' type='quantitative' />
-            <column-instance column='[Employee Growth (bin)]' derivation='None' name='[none:Employee Growth (bin):ok]' pivot='key' type='ordinal' />
-            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
-            <column-instance column='[employee_growth]' derivation='Sum' name='[sum:employee_growth:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[employee_growth]' derivation='None' name='[none:employee_growth:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[state]' derivation='None' name='[none:state:nk]' pivot='key' type='nominal' />
+            <column caption='State' datatype='string' name='[state]' role='dimension' semantic-role='[State].[Name]' type='nominal' />
           </datasource-dependencies>
-          <filter class='categorical' column='[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:Employee Growth (bin):ok]'>
-            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='-5' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='-4' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='-3' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='-2' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='-1' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='0' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='1' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='2' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='3' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='4' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='5' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='6' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='7' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='8' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='9' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='10' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='11' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='12' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='13' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='14' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='15' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='16' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='19' />
-              <groupfilter function='member' level='[none:Employee Growth (bin):ok]' member='20' />
-            </groupfilter>
+          <filter class='categorical' column='[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:state:nk]'>
+            <groupfilter function='member' level='[none:state:nk]' member='&quot;CA&quot;' user:ui-domain='cascading' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <slices>
-            <column>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:Employee Growth (bin):ok]</column>
-            <column>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:city:nk]</column>
+            <column>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:state:nk]</column>
           </slices>
           <aggregation value='true' />
         </view>
-        <style>
-          <style-rule element='axis'>
-            <format attr='title' class='0' field='[federated.1xev79e04f4nkf180bfq40kjhb9n].[cnt:company_name:qk]' scope='rows' value='Number of Companies' />
-          </style-rule>
-        </style>
+        <style />
         <panes>
           <pane selection-relaxation-option='selection-relaxation-allow'>
             <view>
               <breakdown value='auto' />
             </view>
-            <mark class='Circle' />
-            <encodings>
-              <lod column='[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:Employee Growth (bin):ok]' />
-            </encodings>
-            <reference-line axis-column='[federated.1xev79e04f4nkf180bfq40kjhb9n].[cnt:company_name:qk]' boxplot-mark-exclusion='false' boxplot-whisker-type='standard' enable-instant-analytics='true' formula='average' id='refline0' label-type='automatic' probability='95' scope='per-cell' symmetric='false' value-column='[federated.1xev79e04f4nkf180bfq40kjhb9n].[cnt:company_name:qk]' z-order='1' />
-            <style>
-              <style-rule element='mark'>
-                <format attr='size' value='0.25' />
-                <format attr='mark-color' value='#b6992d' />
-              </style-rule>
-            </style>
+            <mark class='Automatic' />
           </pane>
         </panes>
-        <rows>[federated.1xev79e04f4nkf180bfq40kjhb9n].[cnt:company_name:qk]</rows>
-        <cols>[federated.1xev79e04f4nkf180bfq40kjhb9n].[sum:employee_growth:qk]</cols>
+        <rows>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:state:nk]</rows>
+        <cols>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:employee_growth:qk]</cols>
       </table>
       <simple-id uuid='{CAA2FD7C-8363-4492-99D9-2AD05F86D550}' />
     </worksheet>
@@ -680,18 +552,13 @@
             <datasource caption='startup_funding_analysis_cleaned' name='federated.1xev79e04f4nkf180bfq40kjhb9n' />
           </datasources>
           <datasource-dependencies datasource='federated.1xev79e04f4nkf180bfq40kjhb9n'>
-            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
             <column caption='Company Name' datatype='string' name='[company_name]' role='dimension' type='nominal' />
             <column caption='Employee Growth' datatype='real' name='[employee_growth]' role='measure' type='quantitative' />
-            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
             <column-instance column='[company_name]' derivation='None' name='[none:company_name:nk]' pivot='key' type='nominal' />
             <column-instance column='[employee_growth]' derivation='Sum' name='[sum:employee_growth:qk]' pivot='key' type='quantitative' />
             <column-instance column='[total_funding]' derivation='Sum' name='[sum:total_funding:qk]' pivot='key' type='quantitative' />
             <column caption='Total Funding' datatype='real' name='[total_funding]' role='measure' type='quantitative' />
           </datasource-dependencies>
-          <slices>
-            <column>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:city:nk]</column>
-          </slices>
           <aggregation value='true' />
         </view>
         <style>
@@ -762,7 +629,6 @@
           </filter>
           <slices>
             <column>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:state:nk]</column>
-            <column>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:city:nk]</column>
           </slices>
           <aggregation value='true' />
         </view>
@@ -828,12 +694,10 @@
             <column caption='high growth' datatype='integer' name='[Calculation_4894286917768863744]' role='measure' type='quantitative'>
               <calculation class='tableau' formula='IF [employee_growth] &gt;= { FIXED : PERCENTILE([employee_growth], 0.75) } THEN 1 ELSE 0 END' />
             </column>
-            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
             <column-instance column='[Calculation_4894286917768863744]' derivation='Count' name='[cnt:Calculation_4894286917768863744:qk]' pivot='key' type='quantitative' />
             <column caption='Employee Growth' datatype='real' name='[employee_growth]' role='measure' type='quantitative' />
             <column-instance column='[employee_growth]' derivation='Median' name='[med:employee_growth:qk]' pivot='key' type='quantitative' />
             <column-instance column='[total_funding]' derivation='Median' name='[med:total_funding:qk]' pivot='key' type='quantitative' />
-            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
             <column-instance column='[Calculation_4894286917768863744]' derivation='Sum' name='[sum:Calculation_4894286917768863744:qk]' pivot='key' type='quantitative' />
             <column-instance column='[total_funding]' derivation='Sum' name='[sum:total_funding:qk]' pivot='key' type='quantitative' />
             <column caption='Total Funding' datatype='real' name='[total_funding]' role='measure' type='quantitative' />
@@ -853,7 +717,6 @@
             </dictionary>
           </manual-sort>
           <slices>
-            <column>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:city:nk]</column>
             <column>[federated.1xev79e04f4nkf180bfq40kjhb9n].[:Measure Names]</column>
           </slices>
           <aggregation value='true' />
@@ -939,10 +802,8 @@
             <datasource caption='startup_funding_analysis_cleaned' name='federated.1xev79e04f4nkf180bfq40kjhb9n' />
           </datasources>
           <datasource-dependencies datasource='federated.1xev79e04f4nkf180bfq40kjhb9n'>
-            <column caption='City' datatype='string' name='[city]' role='dimension' semantic-role='[City].[Name]' type='nominal' />
             <column caption='Company Name' datatype='string' name='[company_name]' role='dimension' type='nominal' />
             <column caption='Employee Growth' datatype='real' name='[employee_growth]' role='measure' type='quantitative' />
-            <column-instance column='[city]' derivation='None' name='[none:city:nk]' pivot='key' type='nominal' />
             <column-instance column='[company_name]' derivation='None' name='[none:company_name:nk]' pivot='key' type='nominal' />
             <column-instance column='[employee_growth]' derivation='Sum' name='[sum:employee_growth:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
@@ -958,7 +819,6 @@
           </shelf-sorts>
           <slices>
             <column>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:company_name:nk]</column>
-            <column>[federated.1xev79e04f4nkf180bfq40kjhb9n].[none:city:nk]</column>
           </slices>
           <aggregation value='true' />
         </view>
@@ -1027,7 +887,7 @@
                       <zone h='90222' id='5' param='vert' type-v2='layout-flow' w='74385' x='615' y='8889'>
                         <zone fixed-size='134' h='14889' id='7' is-fixed='true' param='horz' type-v2='layout-flow' w='74385' x='615' y='8889'>
                           <zone h='14889' id='8' name='Growth &amp; Funding KPIs' w='74385' x='615' y='8889'>
-                            <layout-cache cell-count-h='1' cell-count-w='3' non-cell-size-h='64' non-cell-size-w='1' type-h='cell' type-w='cell' />
+                            <layout-cache cell-count-w='3' non-cell-size-w='1' type-h='cell' type-w='cell' />
                             <zone-style>
                               <format attr='border-color' value='#000000' />
                               <format attr='border-style' value='none' />
@@ -1038,7 +898,7 @@
                         </zone>
                         <zone h='35221' id='14' param='horz' type-v2='layout-flow' w='74385' x='615' y='23778'>
                           <zone fixed-size='486' h='35221' id='15' is-fixed='true' name='Top 10 Companies by Employee Growth' w='37192' x='615' y='23778'>
-                            <layout-cache cell-count-h='10' minwidth='260' non-cell-size-h='118' type-h='cell' type-w='scalable' />
+                            <layout-cache minwidth='260' type-h='cell' type-w='scalable' />
                             <zone-style>
                               <format attr='border-color' value='#000000' />
                               <format attr='border-style' value='none' />
@@ -1047,7 +907,7 @@
                             </zone-style>
                           </zone>
                           <zone fixed-size='465' h='35221' id='16' is-fixed='true' name='Distribution of Employee Growth Rates (%)' w='37193' x='37807' y='23778'>
-                            <layout-cache minheight='198' type-h='scalable' type-w='cell' />
+                            <layout-cache minheight='143' type-h='scalable' type-w='cell' />
                             <zone-style>
                               <format attr='border-color' value='#000000' />
                               <format attr='border-style' value='none' />
