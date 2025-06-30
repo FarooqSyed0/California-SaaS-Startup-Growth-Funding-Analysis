@@ -120,7 +120,7 @@ Comprehensive data analysis project examining California SaaS startup growth pat
 ### Strategic KPIs
 - **Median Employee Growth Rate:** 21.88% (robust benchmark resistant to outliers)
 - **High-Growth Threshold:** 48.15% (75th percentile for investment targeting)
-- **High-Growth Companies Identified:** 211 companies exceeding threshold
+- **High-Growth Companies Identified:** 212 companies exceeding threshold
 - **Geographic Concentration:** San Francisco leading growth hub
 
 ### Business Impact
