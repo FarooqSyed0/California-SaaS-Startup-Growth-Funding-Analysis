@@ -4,7 +4,7 @@
 Comprehensive data analysis project examining California SaaS startup growth patterns and funding trends through advanced SQL analytics, Python data processing, and interactive Tableau visualizations. Successfully analyzed 800+ startup records to identify high-growth companies and market opportunities for venture capital investment decisions.
 
 **Key Results:**
-- Identified 211 high-growth companies exceeding 75th percentile threshold (48.15% employee growth)
+- Identified 212 high-growth companies exceeding 75th percentile threshold (48.15% employee growth)
 - Generated quantifiable investment screening criteria with median growth benchmark of 21.88%
 - Delivered interactive dashboard enabling real-time market analysis
 - Achieved 98.8% data completeness ensuring high-confidence analytical conclusions
