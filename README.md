@@ -1,6 +1,6 @@
 # California SaaS Startup Growth & Funding Analysis
+[Quick View: Business Impact Questions & Results](src/qv-impact.md)
 
-A comprehensive data-driven analysis of California SaaS companies' growth patterns and funding trends using PostgreSQL, Python, and Tableau. This repository follows a structured documentation approach with executive summary, technical documentation, and detailed methodology.
 
 ## 🚀 Live Dashboard
 
