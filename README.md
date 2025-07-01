@@ -1,5 +1,6 @@
 # California SaaS Startup Growth & Funding Analysis
-## Business Impact Questions & Results
+<h2 align="center">Business Impact Questions & Results</h2>
+
 
 | Question                                                                                                 | Key Result                                                                                                                         |
 |:-------------------------------------------------------------------------------------------------------- |:-----------------------------------------------------------------------------------------------------------------------------------|
