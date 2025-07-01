@@ -23,6 +23,17 @@
   <img src="screenshots/tableaudashboard.png" width="600" height="400">
 </p>
 
+<h2 align="center">Technical Documentation</h2>
+
+| Data Model Design & Schema Architecture                            | SQL Business Queries                                 |
+|:------------------------------------------------------------------:|:----------------------------------------------------:|
+| <img src="screenshots/data_model_design_schema_architecture.png" width="600" alt="Data Model Design & Schema Architecture"> | <img src="screenshots/sql_business_queries.png" width="600" alt="SQL Business Queries"> |
+
+| Python Data Cleaning                                               | Python Visualization                                 |
+|:------------------------------------------------------------------:|:----------------------------------------------------:|
+| <img src="screenshots/py_data_cleaning.png" width="600" alt="Python Data Cleaning"> | <img src="screenshots/py_visual.png" width="600" alt="Python Visualization"> |
+
+
 
 
 ## Project Overview
