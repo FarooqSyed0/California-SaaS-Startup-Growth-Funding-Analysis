@@ -11,11 +11,19 @@
 | 📌 **Regional Growth Leaders**<br>Which metropolitan areas exhibit the strongest SaaS growth?             | 🏙️ **San Francisco Bay Area, Los Angeles, San Diego confirmed as leading growth regions**<br>Equips VCs with targeted location strategies and helps startups optimize site selection                                                                                                       |
 
 
-## 🚀 Live Dashboard
+<h2 align="center">🚀 Live Dashboard</h2>
 
-[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis_17511350716100/CaliforniaSaaSStartupGrowthFundingAnalysis?publish=yes)
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis_17511350716100/CaliforniaSaaSStartupGrowthFundingAnalysis?publish=yes">
+    View the Interactive Tableau Dashboard
+  </a>
+</p>
 
-<img src="screenshots/tableaudashboard.png" width="600" height="400">
+<p align="center">
+  <img src="screenshots/tableaudashboard.png" width="600" height="400">
+</p>
+
+
 
 ## Project Overview
 
