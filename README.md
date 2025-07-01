@@ -1,32 +1,13 @@
 # California SaaS Startup Growth & Funding Analysis
-<h2 align="center">🚀 Business Impact Questions &amp; Results</h2>
+## Business Impact Questions & Results
 
-<table>
-  <tr>
-    <th align="left">Question</th>
-    <th align="left">Key Result</th>
-  </tr>
-  <tr>
-    <td>📈 <strong>Highest-Growth Investment Opportunities</strong><br/>Which California SaaS companies represent the highest-growth investment opportunities?</td>
-    <td>🏆 <strong>212 high-growth companies</strong><br/>Top 10 performers: Outlier, Rivian & Volkswagen Group, Pipeful, PassRight, Deccan AI, Agency, GoodOnes, Palona AI, LawPro.ai, Rooster Scheduling</td>
-  </tr>
-  <tr>
-    <td>⚙️ <strong>Competitive Benchmarking</strong><br/>What are the performance benchmarks for competitive positioning?</td>
-    <td>📊 <strong>Median employee growth: 21.88%</strong><br/>Growth range: –50% → 150%+</td>
-  </tr>
-  <tr>
-    <td>🌐 <strong>Geographic Clusters</strong><br/>Where are the geographic clusters of high-performing SaaS companies?</td>
-    <td>📍 <strong>San Francisco Bay Area</strong>, <strong>Los Angeles</strong>, <strong>San Diego</strong></td>
-  </tr>
-  <tr>
-    <td>💰 <strong>Funding vs. Growth Correlation</strong><br/>How do funding levels correlate with growth performance?</td>
-    <td>🔗 Analysis across 800+ companies<br/>Total funding: <strong>$13.16 B</strong></td>
-  </tr>
-  <tr>
-    <td>📌 <strong>Regional Growth Leaders</strong><br/>Which metropolitan areas exhibit the strongest SaaS growth?</td>
-    <td>🏙️ <strong>SF Bay Area</strong>, <strong>LA</strong>, <strong>SD</strong></td>
-  </tr>
-</table>
+| Question                                                                                                 | Key Result                                                                                                                         |
+|:-------------------------------------------------------------------------------------------------------- |:-----------------------------------------------------------------------------------------------------------------------------------|
+| 📈 **Highest-Growth Investment Opportunities**<br>Which California SaaS companies represent the highest-growth investment opportunities? | 🏆 **212 high-growth companies identified** from 800+ dataset<br>Top 10 performers include Outlier, Rivian & Volkswagen Group, Pipeful, PassRight—providing VCs with quantifiable screening criteria |
+| ⚙️ **Competitive Benchmarking**<br>What are the performance benchmarks for competitive positioning?       | 📊 **Median employee growth: 21.88%** established as market standard<br>Distribution spans –50% to 150%+ enabling strategic positioning against verified benchmarks                                                               |
+| 🌐 **Geographic Clusters**<br>Where are the geographic clusters of high-performing SaaS companies?        | 📍 **San Francisco Bay Area, Los Angeles, San Diego** identified as top growth hubs<br>Provides critical intelligence for regional investment strategies and market dynamics                                                                            |
+| 💰 **Funding vs. Growth Correlation**<br>How do funding levels correlate with growth performance?         | 🔗 **Interactive correlation analysis across 800+ companies**<br>Total funding: **$13.16 B** reveals capital efficiency patterns for optimal investment decisions                                                                  |
+| 📌 **Regional Growth Leaders**<br>Which metropolitan areas exhibit the strongest SaaS growth?             | 🏙️ **San Francisco Bay Area, Los Angeles, San Diego confirmed as leading growth regions**<br>Equips VCs with targeted location strategies and helps startups optimize site selection                                                                                                       |
 
 
 ## 🚀 Live Dashboard
