@@ -32,3 +32,7 @@
 ⚙️ **[Technical Documentation](technical-documentation.md)** - In-depth coverage of data acquisition, infrastructure, ETL pipeline, analytics, visualizations, and performance benchmarks.
 
 📋 **[Process & Methodology](process.md)** - Detailed step-by-step project methodology, rationale, challenges, and lessons learned.
+
+
+## Resources
+
