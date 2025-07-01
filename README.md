@@ -6,6 +6,8 @@ A comprehensive data-driven analysis of California SaaS companies' growth patter
 
 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/farooq.syed6811/viz/CaliforniaSaaSStartupGrowthFundingAnalysis_17511350716100/CaliforniaSaaSStartupGrowthFundingAnalysis?publish=yes)
 
+<img src="screenshots/tableaudashboard.png" width="600" height="400">
+
 ## Project Overview
 
 📊 **[Executive Summary](executive-summary.md)** - Rapid overview of business objectives, key results, stakeholder value, and live dashboard link.
