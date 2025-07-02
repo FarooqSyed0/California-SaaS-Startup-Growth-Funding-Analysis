@@ -26,17 +26,16 @@
 
 <h2 align="center">Project Workflow</h2>
 
+mermaid
+```
 flowchart TD
-    A["Data Collection & Import<br/>Install and configure PostgreSQL on macOS;<br/>design and create tables to store raw<br/>startup funding data."]
-    B["Data Cleaning & Preparation<br/>Execute SQL scripts to validate schema,<br/>enforce data types, and remove duplicates<br/>or invalid records. Use Python (Pandas)<br/>to standardize fields, impute missing<br/>values, and prepare a clean dataset."]
-    C["Exploratory Data Analysis (EDA)<br/>Perform initial data profiling in Excel,<br/>Google Sheets, and Jupyter (summary<br/>statistics, null checks, distributions).<br/>Create charts (histograms, scatter plots)<br/>to surface patterns in employee<br/>growth/funding."]
-    D["Modeling & Analysis<br/>Write SQL queries and Python routines<br/>to calculate key metrics (growth rates,<br/>funding medians, city breakdowns).<br/>Conduct correlation analysis and<br/>segmentation to identify high-growth<br/>clusters."]
-    E["Reporting & Visualization<br/>Sketch dashboard wireframes and connect<br/>Tableau Public to the cleaned data for<br/>interactive visuals. Build and publish<br/>dashboards, automate report exports,<br/>and integrate findings into portfolio<br/>documentation."]
-    
-    A --> B
-    B --> C
-    C --> D
-    D --> E
+  A[Start] --> B{Is it fenced?}
+  B -- Yes --> C[It works!]
+  B -- No --> D[It fails!]
+```
+```
+
+
 
 
 
