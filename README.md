@@ -23,6 +23,22 @@
   <img src="screenshots/tableaudashboard.png" width="600" height="400">
 </p>
 
+
+<h2 align="center">Project Workflow</h2>
+
+mermaid
+```
+flowchart TD
+  A[Start] --> B{Is it fenced?}
+  B -- Yes --> C[It works!]
+  B -- No --> D[It fails!]
+```
+```
+
+
+
+
+
 <h2 align="center">Technical Documentation</h2>
 
 | Data Model Design & Schema Architecture                            | SQL Business Queries                                 |
@@ -34,16 +50,11 @@
 | <img src="screenshots/py_data_cleaning.png" width="600" alt="Python Data Cleaning"> | <img src="screenshots/py_visual.png" width="600" alt="Python Visualization"> |
 
 
-
-
-## Project Overview
+## Resources
 
 📊 **[Executive Summary](executive-summary.md)** - Rapid overview of business objectives, key results, stakeholder value, and live dashboard link.
 
 ⚙️ **[Technical Documentation](technical-documentation.md)** - In-depth coverage of data acquisition, infrastructure, ETL pipeline, analytics, visualizations, and performance benchmarks.
 
 📋 **[Process & Methodology](process.md)** - Detailed step-by-step project methodology, rationale, challenges, and lessons learned.
-
-
-## Resources
 
