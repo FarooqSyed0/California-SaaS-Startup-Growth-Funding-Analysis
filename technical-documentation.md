@@ -180,6 +180,7 @@ Comprehensive data analysis project examining California SaaS startup growth pat
 - Python Indent
 - isort
 - autoDocstring
+- CodeSnap
 
 *(For the full list, see the [VS Code extensions screenshot](./screenshots/vscode-extensions-list.jpg).)*
 
