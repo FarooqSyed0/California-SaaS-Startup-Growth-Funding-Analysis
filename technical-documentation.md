@@ -147,6 +147,7 @@ Comprehensive data analysis project examining California SaaS startup growth pat
 - **Mermaid.js** – Diagramming and workflow visualization in Markdown
 - **Figma** – Wireframing and dashboard design
 - **Markdown** – Project documentation and reporting
+- **Google Docs** – Collaborative documentation, meeting notes, and project management
 
 
 ## Python Frameworks & Libraries
