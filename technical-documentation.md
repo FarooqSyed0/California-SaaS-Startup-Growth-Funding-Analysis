@@ -148,6 +148,8 @@ Comprehensive data analysis project examining California SaaS startup growth pat
 - **Figma** – Wireframing and dashboard design
 - **Markdown** – Project documentation and reporting
 - **Google Workspace** – Cloud-based productivity and collaboration suite (Docs, Sheets, Slides, Drive, Gmail, Calendar, and Meet)
+- **Cursor AI** – AI-powered code editor for intelligent code suggestions, error detection, and productivity enhancement
+
 
 ## Python Frameworks & Libraries
 - **Pandas** – Data manipulation and cleaning
