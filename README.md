@@ -24,22 +24,13 @@
 </p>
 
 
-<h2 align="center">Project Workflow</h2>
+<h2 align="center">🗺️ Project Workflow</h2>
 
-mermaid
-```
-flowchart TD
-  A[Start] --> B{Is it fenced?}
-  B -- Yes --> C[It works!]
-  B -- No --> D[It fails!]
-```
-```
+![Project Workflow](screenshots/project_workflow.png)
 
 
 
-
-
-<h2 align="center">Technical Documentation</h2>
+<h2 align="center">📖  Technical Documentation</h2>
 
 | Data Model Design & Schema Architecture                            | SQL Business Queries                                 |
 |:------------------------------------------------------------------:|:----------------------------------------------------:|
@@ -50,11 +41,29 @@ flowchart TD
 | <img src="screenshots/py_data_cleaning.png" width="600" alt="Python Data Cleaning"> | <img src="screenshots/py_visual.png" width="600" alt="Python Visualization"> |
 
 
-## Resources
+# Resources
 
-📊 **[Executive Summary](executive-summary.md)** - Rapid overview of business objectives, key results, stakeholder value, and live dashboard link.
+- **Business Impact Results**  
+  [`business-impact-results.md`](./business-impact-results.md)  
+  *A detailed analysis of how funding trends have influenced business outcomes for SaaS startups in California, featuring key metrics, growth benchmarks, and the impact of capital availability on company performance.*
 
-⚙️ **[Technical Documentation](technical-documentation.md)** - In-depth coverage of data acquisition, infrastructure, ETL pipeline, analytics, visualizations, and performance benchmarks.
+- **Executive Summary**  
+  [`executive-summary.md`](./executive-summary.md)  
+  *An overview highlighting the main findings, strategic insights, and key takeaways from the California SaaS Startup Growth & Funding Analysis, providing a concise snapshot of trends, challenges, and opportunities in the sector.*
 
-📋 **[Process & Methodology](process.md)** - Detailed step-by-step project methodology, rationale, challenges, and lessons learned.
+- **Process**  
+  [`process.md`](./process.md)  
+  *A step-by-step documentation of the research and analytical methods used in the California SaaS Startup Growth & Funding Analysis, detailing data collection, processing, and evaluation procedures.*
+
+- **Technical Documentation**  
+  [`technical-documentation.md`](./technical-documentation.md)  
+  *Comprehensive technical reference outlining the project’s infrastructure, tools, and implementation details for the California SaaS Startup Growth & Funding Analysis.*
+
+- **Python Data Cleaning & Analysis Notebook**  
+  [`src/python_cleaning_analysis.ipynb`](./src/python_cleaning_analysis.ipynb)  
+  *Jupyter notebook containing the Python code for data cleaning, transformation, and core analytical workflows used in the project.*
+
+- **Business Analysis SQL Queries**  
+  [`src/business_analysis_queries.sql`](./src/business_analysis_queries.sql)  
+  *A collection of SQL queries used for extracting, transforming, and analyzing business data within the project. These queries support key business questions and deliver actionable insights for SaaS startup growth and funding analysis.*
 
