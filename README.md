@@ -41,7 +41,7 @@
 | <img src="screenshots/py_data_cleaning.png" width="600" alt="Python Data Cleaning"> | <img src="screenshots/py_visual.png" width="600" alt="Python Visualization"> |
 
 
-# Resources
+# Supporting Resources
 
 - **Business Impact Results**  
   [`business-impact-results.md`](./business-impact-results.md)  
