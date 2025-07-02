@@ -24,22 +24,13 @@
 </p>
 
 
-<h2 align="center">Project Workflow</h2>
+<h2 align="center">🗺️ Project Workflow</h2>
 
-mermaid
-```
-flowchart TD
-  A[Start] --> B{Is it fenced?}
-  B -- Yes --> C[It works!]
-  B -- No --> D[It fails!]
-```
-```
+![Project Workflow](screenshots/project_workflow.png)
 
 
 
-
-
-<h2 align="center">Technical Documentation</h2>
+<h2 align="center">📖  Technical Documentation</h2>
 
 | Data Model Design & Schema Architecture                            | SQL Business Queries                                 |
 |:------------------------------------------------------------------:|:----------------------------------------------------:|
