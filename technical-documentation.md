@@ -158,7 +158,6 @@ Comprehensive data analysis project examining California SaaS startup growth pat
 - **Data Analytics** – Analyzing startup growth and funding patterns
 - **Data Cleaning** – Removing duplicates, validating schema, and preparing datasets
 - **Data Visualization** – Creating charts, dashboards, and visual summaries
-- **Business Development** – (If your analysis includes business impact or strategy)
 
 ## VS Code Extensions
 - Python (by Microsoft)
