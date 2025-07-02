@@ -130,6 +130,57 @@ Comprehensive data analysis project examining California SaaS startup growth pat
 
 ---
 
+# Skills & Technology Stack
+
+## Software & Tools
+- **SQL** – Data extraction, transformation, and analysis
+- **Python** – Data cleaning, preparation, and analysis
+- **Tableau Desktop Public Edition** – Interactive dashboards and public data visualization
+- **PostgreSQL** – Relational database management and schema design
+- **DBeaver** – Database management and SQL query interface
+- **Jupyter Notebooks** – Exploratory analysis and documentation
+- **VS Code** – Source code editing and project development
+- **GitHub Desktop** – Git version control with graphical interface
+- **Google Sheets** – Preliminary data profiling and collaboration
+- **Excel** – Data exploration and summary statistics
+- **Anaconda Cloud** – Python environment and package management
+- **Mermaid.js** – Diagramming and workflow visualization in Markdown
+- **Figma** – Wireframing and dashboard design
+
+## Python Frameworks & Libraries
+- **Pandas** – Data manipulation and cleaning
+- **NumPy** – Numerical computing and array operations
+- **Matplotlib** – Static data visualization
+- **Seaborn** – Statistical data visualization
+
+## Expertise
+- **Business Analytics** – Translating data insights into business impact
+- **Data Analytics** – Analyzing startup growth and funding patterns
+- **Data Cleaning** – Removing duplicates, validating schema, and preparing datasets
+- **Data Visualization** – Creating charts, dashboards, and visual summaries
+- **Business Development** – (If your analysis includes business impact or strategy)
+
+## VS Code Extensions
+- Python (by Microsoft)
+- Pylance
+- Jupyter
+- Jupyter Notebook Renderers
+- GitHub Copilot
+- Flake8
+- Black Formatter
+- Python Docstring Generator
+- GitLens
+- Markdown All in One
+- SQL Server
+- TODO Tree
+- Error Lens
+- Python Indent
+- isort
+- autoDocstring
+
+*(For the full list, see the [VS Code extensions screenshot](./screenshots/vscode-extensions-list.jpg).)*
+
+
 ## Performance Specifications
 
 | Metric | Result | Business Impact |
