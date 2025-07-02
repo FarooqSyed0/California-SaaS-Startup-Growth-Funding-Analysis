@@ -146,6 +146,8 @@ Comprehensive data analysis project examining California SaaS startup growth pat
 - **Anaconda Cloud** – Python environment and package management
 - **Mermaid.js** – Diagramming and workflow visualization in Markdown
 - **Figma** – Wireframing and dashboard design
+- **Markdown** – Project documentation and reporting
+
 
 ## Python Frameworks & Libraries
 - **Pandas** – Data manipulation and cleaning
