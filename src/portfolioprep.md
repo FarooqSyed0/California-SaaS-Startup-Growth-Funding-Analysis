@@ -13,7 +13,7 @@ Analyzed 400+ SaaS startups in California to uncover high-growth companies, fund
 This analysis empowers investors and startup leaders to benchmark performance, identify top opportunities, and target high-growth regions for expansion. The dashboard and findings support strategic decision-making and market analysis.
 
 **Links:**  
-- [Notion Project Page](https://www.notion.so/California-SaaS-Startup-Growth-Funding-Analysis-220cff0b4864800a8fd6fa3315c357ab)[1]
+- [Notion Project Page](https://www.notion.so/California-SaaS-Startup-Growth-Funding-Analysis-220cff0b4864800a8fd6fa3315c357ab)
 - [Tableau Public Profile](https://public.tableau.com/app/profile/farooq.syed6811/vizzes)
 - [GitHub Repositories](https://github.com/FarooqSyed0?tab=repositories)
 
